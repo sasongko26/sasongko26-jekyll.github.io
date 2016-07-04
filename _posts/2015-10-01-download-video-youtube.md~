@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Download Video Youtube"
+date: 2015-10-01
+tags: 
+- Slackware
+- Multimedia
+
+---
+Download video dari _Youtube_ adalah hal yang mudah bagi pengguna _Slackware_. Paling tidak ada 2 cara. Cara pertama menggunakan peramban web, dan cara kedua menggunakan _youtube-dl_ yang berantar muka teks. Di sini menggunakan cara kedua. Untuk menginstall _youtube-dl_ silahkan [klik di sini]({% post_url 2015-10-01-install-youtubedl %}).
+
+Cara menggunakannya
+{% highlight bash %}
+youtube-dl url_video_youtube
+{% endhighlight %}
+Contoh, akan URL video yang akan di download adalah https://www.youtube.com/watch?v=lGRQIBJ5FBE&index=1&list=PLB9F411241A111B54.
+{% highlight bash %}
+youtube-dl https://www.youtube.com/watch?v=lGRQIBJ5FBE&index=1&list=PLB9F411241A111B54
+{% endhighlight %}
+Kalau ada beberapa video yang ingin didownload, masukkan saja URLnya ke satu file, tiap baris 1 URL, kemudian cara downloadnya tambahkan opsi -a
+{% highlight bash %}
+youtube-dl -a file
+{% endhighlight %}
+Untuk keterangan lainnya tentang _youtube-dl_ silahkan
+{% highlight bash %}
+youtube-dl --help 
+{% endhighlight %}
