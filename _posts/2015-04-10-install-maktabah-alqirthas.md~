@@ -17,17 +17,17 @@ Pertama, unduh paketnya di [di sini](http://sourceforge.net/projects/elkirtasse)
 
 Website secara otomatis akan mendeteksi sistem yang terinstall di komputer dan menyarankan versi yang cocok. Nah, karena BlankOn ini diturunkan dari Debian, maka akan mendapatkan berkas deb nya, kemudian install
 
-{% highlight bash %}
+```
 $ sudo dpkg -i elkirtasse_3.6.8-1_i386.deb
-{% endhighlight %}
+```
 
 Maktabah Alqirthas berhasil diinstall.
 
 Untuk menjalankannya bisa melalui menu (elkirtasse berada di bawah menu Perangkat lunak Islami dan Perkantoran. Atau bisa juga melalui terminal
 
-{% highlight bash %}
+```
 $ elkirtasse
-{% endhighlight %}
+```
 
 Adapun untuk Slackware, install dari rpm-nya yang untuk **Fedora 20** bisa di- _download_ [di sini](https://sourceforge.net/projects/elkirtasse/files/elkirtasse_3.6.8/Fedora_20/) kemudian _convert_ ke **tgz** dengan <code>rpm2tgz</code> lalu install seperti biasa. Untuk menjalankannya dari menu _Office_.
 

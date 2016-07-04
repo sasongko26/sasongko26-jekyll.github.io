@@ -3,8 +3,8 @@
 # Site wide configuration
 ####################################
 #
-title:       "Leonids Jekyll theme"
-description: "Clean Jekyll blog theme called Leonids."
+title:       "Catatan Sasongko"
+description: "Catatan Penggunaan Open Source"
 url:         # the base hostname & protocol for your site
 
 #
@@ -12,11 +12,11 @@ url:         # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Jakarta
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+permalink:         /:year-:month/:title
 
 kramdown:
   auto_ids:       true
@@ -31,12 +31,12 @@ kramdown:
 ####################################
 #
 owner:
-  name: Your name
-  avatar: avatar.jpg
-  job: "Your job"
-  bio: "Write about yourself"
-  email:
-  disqus-shortname:
+  name: Sasongko Bawono
+  avatar: 
+  job: "Pelajar"
+  bio: "Open source enthusiast"
+  email: 
+  disqus-shortname: catatansasongko
   twitter:
   facebook:
   google:
