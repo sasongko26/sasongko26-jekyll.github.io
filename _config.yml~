@@ -16,7 +16,7 @@ timezone:          Asia/Jakarta
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /:year-:month/:title
+permalink:         /:year/:month/:title
 
 kramdown:
   auto_ids:       true
@@ -36,7 +36,7 @@ owner:
   job: "Pelajar"
   bio: "Open source enthusiast"
   email: 
-  disqus-shortname: catatansasongko
+  disqus-shortname: "catatansasongko"
   twitter:
   facebook:
   google:
