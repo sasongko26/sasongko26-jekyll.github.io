@@ -3,7 +3,7 @@ layout: post
 date: 2016-07-03
 title: "Upgrade Slackbuilds Slackware 14.2"
 ---
-Setelah melakukan _upgrade_ sistem ke _Slackware 14.2_ ada baiknya _upgrade_ juga paket yang diinstal dari slackbuilds.org.
+Setelah melakukan [ _upgrade_ sistem ke _Slackware 14.2_]({% post_url 2016-07-03-upgrade-slackware-142 %}) ada baiknya _upgrade_ juga paket yang diinstal dari slackbuilds.org.
 
 1. _Upgrade_ <code>sbopkg</code> : <code>sbopkg -u</code>
 2. Versi <code>sbopkg</code> terbaru adalah 0.38.0 sedangkan yang terinstall 0.37.1. Untuk mengunduh versi terbaru ketik <code>D</code>
@@ -22,4 +22,4 @@ Setelah melakukan _upgrade_ sistem ke _Slackware 14.2_ ada baiknya _upgrade_ jug
 15. Tunggu sampai selesai.
 16. Keluar dialog apakah akan menghapus yang ada di <code>queue</code>. Pilih <code>Clear</code> untuk menghapus. Kemudian keluar info bahwa queue sudah dihapus, keudian <code>OK</code>
 17. Kembali ke <code>Queue Menu</code> pilih <code>Back</code>
-18. Kembali ke awal <code>sbopkg<code>, karena sudah selesai, silahkan <code>Exit</code> 
+18. Kembali ke awal <code>sbopkg</code>, karena sudah selesai, silahkan <code>Exit</code> 

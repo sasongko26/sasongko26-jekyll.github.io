@@ -2,6 +2,7 @@
 layout: post
 date: 2016-07-03
 title: "Upgrade ke Slackware 14.2"
+tags: Slackware
 ---
 Sehubungan dengan telah rilisnya **Slackware 14.2** maka silahkan melakukan _upgrade_ untuk mendapatkan keamanan yang lebih bagus dan fitur-fitur baru. Saya selama ini melakukan **_upgrade_ bertahap demi penghematan kuota internet**. Dimulai dengan upgrade ke _current_ karena saat itu versi _stable_ yang baru (14.2) masih dalam proses pengembangan. _Upgrade_ ini menggunakan <code>slackpkg</code>. Dan tentu saja membutuhkan sambungan internet.
 
