@@ -17,6 +17,7 @@ markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
 permalink:         /:year/:month/:title
+comments:          true
 
 kramdown:
   auto_ids:       true
@@ -31,12 +32,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Sasongko Bawono
+  name: Sasongko
   avatar: 
   job: "Pelajar"
   bio: "Open source enthusiast"
-  email: 
-  disqus-shortname: "catatansasongko"
+  email: sasongko262@gmail.com
+  telegram: Sasongko
+  disqus-shortname: catatansasongko
   twitter:
   facebook:
   google:

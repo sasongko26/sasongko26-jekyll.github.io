@@ -17,6 +17,7 @@ markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
 permalink:         /:year/:month/:title
+comments:          true
 
 kramdown:
   auto_ids:       true
@@ -35,8 +36,9 @@ owner:
   avatar: 
   job: "Pelajar"
   bio: "Open source enthusiast"
-  email: 
-  disqus-shortname: "catatansasongko"
+  email: sasongko262@gmail.com
+  telegram: Sasongko
+  disqus-shortname: catatansasongko
   twitter:
   facebook:
   google:
@@ -46,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: sasongko26 #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username

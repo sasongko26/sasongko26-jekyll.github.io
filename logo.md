@@ -4,8 +4,6 @@ title: Makna Logo
 permalink: /logo
 ---
 
-## Makna Logo
-
 ![](/gambar/logocatatansasongko.png)
 
 **Warna dasar hijau**. Hijau adalah warna dedaunan. Daun berwarna hijau karena mengandung klorofil. Klorofil menyerap sinar matahari kemudian terjadi fotosintesis yang sangat bermanfaat dalam kehidupan, baik kehidupan tumbuhan itu sendiri maupun makhluk lain (misalnya manusia dan hewan) yang ada di sekitarnya. Kami berharap blog ini dapat memberikan manfaat bagi masyarakat luas.
