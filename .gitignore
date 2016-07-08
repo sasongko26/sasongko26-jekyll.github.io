@@ -5,3 +5,5 @@ _drafts
 .*~
 *~
 .*swp
+*.md~
+*.yml~
