@@ -5,6 +5,7 @@ title: "Ganti Theme Xfce"
 tags: 
 - Theme
 - Slackware
+- Xfce
 ---
 Bosan dengan tampilan _theme_ yang itu-itu aja? Tenang, _theme_-nya bisa diganti kok, bahkan diganti agar tampilannya mirip Mac OS X. Sebagai contoh akan kita _install theme GlossyP3_ yang membuat tampilan menjadi mirip Mac OS X. 
 

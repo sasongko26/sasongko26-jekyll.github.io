@@ -17,9 +17,6 @@ markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
 permalink:         /:year/:month/:title
-comments:          true
-paginate:          5
-paginate_path:    /page:num/    
 
 kramdown:
   auto_ids:       true
@@ -34,7 +31,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: Sasongko
+  name: Sasongko Bawono
   avatar: 
   job: "Pelajar"
   bio: "Open source enthusiast"
@@ -42,7 +39,7 @@ owner:
   telegram: Sasongko
   disqus-shortname: catatansasongko
   twitter:
-  facebook:
+  facebook: 
   google:
     plus:
     analytics:
@@ -50,7 +47,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: sasongko26 #username
+  github: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
@@ -66,6 +63,3 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
-
-gems:
-    - jekyll-paginate

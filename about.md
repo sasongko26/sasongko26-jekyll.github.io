@@ -4,7 +4,7 @@ title: Profil
 permalink: /profil/
 ---
 
-Blog ini merupakan sebagian dokumentasi atau catatan pribadi dari Sasongko, seorang pengguna linux tingkat _newbie_, berisi tentang penggunaan linux dan _open source_ lainnya. Kami bukanlah orang yang mahir sehingga masih memerlukan masukan, kritik, dan saran agar menjadi lebih baik lagi. Silahkan sampaikan melalui kotak komentar di bawah ini, atau melalui surel/email  atau _[Telegram](http://telegram.me/Sasongko)_. 
+Blog ini merupakan sebagian dokumentasi atau catatan pribadi dari Sasongko Bawono, seorang pengguna linux amatir, berisi tentang penggunaan linux dan _open source_ lainnya. Kami bukanlah orang yang mahir sehingga masih memerlukan masukan, kritik, dan saran agar menjadi lebih baik lagi. Silahkan sampaikan melalui surel/email  atau _[Telegram](http://telegram.me/Sasongko)_. 
 
 Linux yang digunakan sehari-hari adalah _BlankOn 9.1 Suroboyo i386_ dan _Slackware64 current_, tapi yang lebih sering digunakan adalah Slackware. Sedangkan BlankOn diinstal secara virtual. Mengapa diinstal virtual? Karena belum mendukung untuk dipasang di perangkat dengan EFI. Adapun perangkat yang digunakan adalah [notebook](http://www.bhinneka.com/Associate/asc_clicks.aspx?BARef=BATL150600397&BATrcID=linfocatatansas225204&CatID=02no&Link=http%3a%2f%2fwww.bhinneka.com%2fcategory%2fnotebook___laptop.aspx) [Asus X453MA](http://www.bhinneka.com/Associate/asc_clicks.aspx?BARef=BATL150600398&BATrcID=linfocatatansas225204&Link=http%3a%2f%2fwww.bhinneka.com%2fproducts%2fsku00215793%2fasus_notebook_x453ma-bing-wx320b_-_black.aspx).  
 
