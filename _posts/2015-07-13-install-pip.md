@@ -3,9 +3,9 @@ layout: post
 title: "Install pip"
 date: 2015-07-13
 tags: 
-- Slackware
-- BlankOn
-- Python
+- slackware
+- blankOn
+- python
 
 ---
 Pip akan memudahkan kita semua untuk menginstall paket-paket yang terkait dengan python.

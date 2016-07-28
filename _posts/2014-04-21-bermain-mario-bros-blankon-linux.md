@@ -2,7 +2,7 @@
 layout: post
 title: "Bermain Super Mario Bros di BlankOn Linux"
 date: 2014-04-21 03:12:57
-tags: BlankOn
+tags: blankon
 ---
 Masih ingat dengan ini?
 

@@ -3,8 +3,8 @@ layout: post
 title: "Install Youtube Downloader"
 date: 2015-10-01
 tags: 
-- Slackware
-- Multimedia
+- slackware
+- multimedia
 
 ---
 Siapa bilang pakai _Slackware_ ga bisa download video dari _Youtube_? Bisa kok pakai _youtube-dl_.Cara installnya gampang. Pastikan terhubung ke internet untuk mengunduh berkasnya. Dan untuk install butuh hak akses root. Di sini kita pakai cara yang mudah saja, install dari slackbuilds.org.

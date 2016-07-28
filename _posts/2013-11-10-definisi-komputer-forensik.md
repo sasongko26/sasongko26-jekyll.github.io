@@ -2,7 +2,7 @@
 layout: post
 title: "Definisi Komputer Forensik"
 date: 2013-11-10 17:03:56
-tags: Forensik
+tags: forensik
 ---
 Digital forensik atau Computer forensic adalah serangkaian metodologi yang digunakan dalam melakukan akuisisi (imaging), pengumpulan, analisa, serta presentasi bukti digital. Bukti digital mencakup setiap informasi elektronik yang disimpan atau diolah menggunakan teknologi komputer sehingga dapat digunakan untuk mendukung atau menolak tentang bagaimana sebuah insiden atau tindakan pelanggaran hukum terjadi. Karena keterlibatan proses computer forensic adalah setelah terjadinya suatu insiden maka metodologi yang tepat sangat diperlukan untuk mempercepat proses investigasi serta mendapatkan bukti-bukti digital yang akurat. 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Pelatihan dan Sertifikasi Profesi TIK Gelombang I 2015"
 date: 2015-05-01
-tags: Seminar
+tags: seminar
 ---
 ![](/gambar/Poster-Pelatihan-1-724x1024.jpg)
 Dalam rangka Pengembangan Sumber Daya Manusia (SDM) sektor Teknologi Informasi dan Komunikasi, Balai Pelatihan dan Pengembangan Teknologi Informasi dan Komunikasi (BPPTIK) Kementerian Komunikasi dan Informatika (Kemkominfo) akan mengadakan Pelatihan dan Sertifikasi profesi di sektor TIK secara gratis. Pelatihan dan Sertifikasi gelombang ke-1 ini diprioritaskan untuk calon peserta dari daerah Kabupaten Bandung, Kabupaten Bandung Barat, dan sekitarnya. Program yang dibuka yaitu sebagai berikut:

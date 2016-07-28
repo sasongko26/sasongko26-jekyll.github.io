@@ -3,8 +3,8 @@ layout: post
 title: "InstalL Sleuth Kit Slackware"
 date: 2015-06-18
 tags: 
-- Forensik
-- Slackware
+- forensik
+- slackware
 
 ---
 [The Sleuth Kit](https://github.com/sleuthkit) atau disingkat TSK adalah tools digital forensik yang bersifat open source, multiplatform dan text-mode (command line interface). TSK bisa digunakan untuk melakukan analisis pada barang bukti, atau lebih tepatnya citra disk (raw image). Misalnya untuk mengetahui berkas apa saja yang ada di dalam hardisk dan adakah berkas yang dihapus dari hardisk itu.

@@ -3,8 +3,8 @@ layout: post
 title: "Install Libre Office di Slackware"
 date: 2015-06-09
 tags:
-- Slackware
-- LibreOffice
+- slackware
+- office
 
 ---
 Secara _default_ aplikasi perkantoran yang disediakan _Slackware_ bukan _Libre Office_. Kalau pada saat instalasi _Slackware_ (yang penulis gunakan arsitektur 64 bit) memilih _full install_ maka aplikasi perkantoran yang terpasang adalah _Calligra_. Dibandingkan dengan _Calligra_, saya merasa lebih sreg menggunakan _LibreOffice_ karena kompatibilitasnya yang lebih baik terhadap dokumen yang dibuat dengan _Ms Office_ (harap maklum, masih banyak saudara-saudara kita yang belum bisa _move on_ ke _open source_ dan tidak semua menggunakan _Ms Office_ bajakan).

@@ -2,7 +2,7 @@
 layout: post
 title: "Cek Paket Terinstall di Slackware"
 date: 2015-06-15
-tasg: Slackware
+tasg: slackware
 ---
 Untuk mengetahui apakah suatu paket atau aplikasi telah terpasang di Slackware kita atau belum caranya mudah.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Membuat Partisi dengan cgdisk"
 date: 2015-07-11
-tags: Slackware
+tags: slackware
 ---
 _Partitioning_ atau pemartisian atau pembuatan partisi adalah pengetahuan yang harus dimiliki sebelum menginstall linux. Jika harddisk dianalogikan dengan rumah, maka partisi adalah kamar atau ruangan yang ada di dalam rumah itu. Kita bisa mengatur berapa jumlah kamar beserta ukuran dan fungsinya.
 

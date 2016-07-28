@@ -2,7 +2,7 @@
 layout: post
 title: "DPKG Force Overwrite"
 date: 2014-08-03 12:40:22
-tags: BlankOn
+tags: blankon
 ---
 Alhamdulillah bertambah lagi 1 pengguna BlankOn, sahabat yang sudah saya anggap seperti saudara sendiri, memberikan kepercayaan kepada BlankOn untuk menjadi sistem operasi utama di laptop pertamanya. Dari 2 distro linux yang saya tawarkan dan telah dicobanya secara live, dia lebih memilih BlankOn 9 daripada Ubuntu 13.04.
 Pemasangan BlankOn lancar jaya. Karena ISO yang saya punya adalah ISO sesaat setelah rilis (saya unduh tanggal 18 Februari 2014), maka saya merasa wajib untuk memperbaruinya. _Upgrade_ tidak masalah, walau sebenarnya ada kendala koneksi yang kebetulan meng-keong. 

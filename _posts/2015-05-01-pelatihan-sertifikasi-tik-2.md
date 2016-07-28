@@ -2,7 +2,7 @@
 layout: post
 title: "Pelatihan dan Sertifikasi Profesi TIK Gelombang II 2015"
 date: 2015-05-01
-tags: Seminar
+tags: seminar
 ---
 ![](/gambar/Poster-Pelatihan-dan-Sertifikasi-Gelombang-ke-2-724x1024.jpg)
 

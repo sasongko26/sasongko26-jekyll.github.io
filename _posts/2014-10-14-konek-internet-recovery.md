@@ -3,8 +3,8 @@ layout: post
 title: "Konek Internet Recovery Mode"
 date: 2014-10-14 22:03:10
 tags: 
-- BlankOn
-- Terminal
+- blankOn
+- terminal
 
 ---
 Secara default, saat kita berada dalam mode pemulihan (recovery mode) tidak akan bisa tersambung  internet. Untuk menyambungkannya lakukan langkah berikut. Oya kali ini penggunaan dalam virtual box setting jaringan NAT.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Video Chatting dengan Pidgin"
 date:   2014-07-09 11:30:51
-tags: BlankOn
+tags: blankon
 ---
 BlankOn telah menyediakan aplikasi **Pidgin** untuk instant messaging atau chatting. Pidgin bisa digunakan untuk ngobrol di IRC, YM, dll.
 Bagaimana caranya? Video karya Pak Sokhibi ini akan menunjukkan caranya chattingan IRC dengan Pidgin.

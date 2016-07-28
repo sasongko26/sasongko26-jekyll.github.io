@@ -3,8 +3,8 @@ layout: post
 title: "pip InsecurePlatformWarning"
 date: 2016-01-21
 tags : 
-- Slackware
-- BlankOn
+- slackware
+- blankOn
 - python
 
 ---

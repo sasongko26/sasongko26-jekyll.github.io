@@ -2,6 +2,6 @@
 layout: post
 title: "Seminar Hologram & Augmented Reality"
 date: 2015-05-14
-tags: Seminar
+tags: seminar
 ---
 ![](/gambar/semnas-hologram-augmented-reality.jpg)

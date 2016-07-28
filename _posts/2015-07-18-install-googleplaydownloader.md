@@ -3,9 +3,9 @@ layout: post
 title: "Install Google Play Downloader"
 date: 2015-07-18
 tags: 
-- Slackware
-- Python
-- Android
+- slackware
+- python
+- android
 
 ---
 GooglePlayDownloader adalah aplikasi berantar muka grafis (GUI) untuk mengunduh berkas APK dari Google Play Store. Dependensi:

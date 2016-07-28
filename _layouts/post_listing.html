@@ -32,12 +32,12 @@ layout: default
       {% assign author = site.owner %}
     {% endif %}
 
-    </header>
+  </header>
 
     {% if post.excerpt %}
     <div class="post-description">
       <p>
-        {{ post.excerpt }}
+      {{ post.excerpt | remove: '<p>' | remove: '</p>' | truncatewords:70 }}
       </p>
     </div>
     {% endif %}

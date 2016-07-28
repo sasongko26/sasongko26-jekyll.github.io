@@ -3,8 +3,8 @@ layout: post
 title: "Download Video Youtube"
 date: 2015-10-01
 tags: 
-- Slackware
-- Multimedia
+- slackware
+- multimedia
 
 ---
 Download video dari _Youtube_ adalah hal yang mudah bagi pengguna _Slackware_. Paling tidak ada 2 cara. Cara pertama menggunakan peramban web, dan cara kedua menggunakan _youtube-dl_ yang berantar muka teks. Di sini menggunakan cara kedua. Untuk menginstall _youtube-dl_ silahkan [klik di sini]({% post_url 2015-10-01-install-youtubedl %}).

@@ -3,8 +3,8 @@ layout: post
 title: "Tidak Ada Ikon NetworkManager di Panel"
 date: 2015-12-26
 tags: 
-- Slackware
-- NetworkManager
+- slackware
+- network manager
 
 ---
 Iseng-iseng install lagi slackware tapi tanpa paket yang ada di kategori _ap_ atau direktori slackware/ap dan _xap_ (slackware64/xap).

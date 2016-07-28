@@ -2,7 +2,7 @@
 layout: post
 title: "Hapus Kernel Lama Debian"
 date: 2014-10-16 17:10
-tags: BlankOn
+tags: [blankon, kernel]
 ---
 Setelah upgrade kernel, ada yang kurang sreg. Ternyata kernelnya malah jadi ada 2. ini terlihat di grub
 

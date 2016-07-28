@@ -3,8 +3,10 @@ layout: post
 date: 2016-04-29
 title: "Install Tor Browser"
 tags: 
-- Slackware
-- BlankOn
+- slackware
+- blankOn
+- tor
+- firefox
 
 ---
 [Tor Browser](http://torproject.org) adalah peramban web yang sangat memerhatikan privasi. Kita bisa mengakses web secara anonim/ _anonymous_ karena melewati jaringan Tor yang beraneka jalur.

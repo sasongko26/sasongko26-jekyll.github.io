@@ -3,9 +3,9 @@ layout: post
 date: 2016-04-28
 title: "Kekuatan Tersembunyi Nano : Menampilkan File Tersembunyi"
 tags:
-- Slackware
-- BlankOn
-- Text Editor
+- slackware
+- blankOn
+- text editor
 
 ---
 Bertahun-tahun pakai linux, baru sadar ternyata **nano** punya kekuatan tersembunyi. Bisa menampilkan file maupun folder yang _hidden_ secara otomatis.

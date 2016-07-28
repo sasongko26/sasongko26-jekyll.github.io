@@ -2,7 +2,7 @@
 layout: post
 title: "Mengetahui Tanggal Sekarang"
 date: 2014-03-28 22:15:25
-tags: BlankOn
+tags: blankon
 ---
 BlankOn secara default sudah menampilkan panel tanggal di sebelah kanan. Itu saat kita menggunakan dalam mode grafis. Lalu bagaimana kalau kita berada dalam CLI?
 Perintah **date** adalah jawabannya.

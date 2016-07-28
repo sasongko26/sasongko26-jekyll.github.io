@@ -3,9 +3,9 @@ layout: post
 title: "Install Testdisk"
 date: 2015-10-29
 tags:
-- Slackware
-- BlankOn
-- Forensik
+- slackware
+- blankOn
+- forensik
 
 ---
 Testdisk adalah salah satu aplikasi _digital_ forensik multiplatform. Bisa dijalankan di Windows (NT4, 2000, 2003, XP, Vista dan 7), Linux, FreeBSD, OpenBSD, NetBSD, SunOS, dan MacOS. Adapun kegunaannya untuk mengembalikan partisi yang terhapus beserta file-file yang ada di dalamnya. Informasi lebih lengkap tentang testdisk bisa didapatkan di [sini](http://www.cgsecurity.org/).

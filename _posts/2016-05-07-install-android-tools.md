@@ -3,8 +3,8 @@ layout: post
 date: 2016-05-07
 title: "Install Android Tools"
 tags: 
-- Slackware
-- Android
+- slackware
+- android
 
 ---
 Di catatan kemarin sudah saya sampaikan [cara install **sbopkg**]({% post_url 2016-05-03-install-sbopkg %}), nah sekarang adalah contoh cara menggunakan **sbopkg**, untuk install **Android Tools**.

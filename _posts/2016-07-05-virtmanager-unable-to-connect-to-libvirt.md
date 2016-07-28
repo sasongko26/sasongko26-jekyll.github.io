@@ -3,9 +3,10 @@ layout: post
 date: 2016-07-05
 title: "Virtual Manager unable to connect to libvirt"
 tags: 
-- Slackware
-- Virtual Manager
-- Qemu
+- slackware
+- virtual manager
+- qemu
+- virtualisasi
 ---
 Melanjutkan [catatan kemarin]({% post_url 2016-07-04-virtmanager-no-module-requests %}), ternyata <code>Virtual Manager</code> belum bisa berjalan dengan baik. Sudah ada kemajuan sih dibanding yang kemarin, sudah bisa terbuka _graphical front-end_-nya, tapi ternyata kemudian muncul kotak dialog <code>Virtual Machine Manager Connection Failure</code> dengan detail sebagai berikut
 
@@ -69,4 +70,4 @@ OK, ketemu. Ada <code>sbopkg</code>-nya, install!
 sbopkg -i libcacard
 ```
 
-Install selesai. Konfirmasi <code>qemu</code> dengan <code>qemu-system-x86_64</code> apakah masih bermasalah. Ternyata ok. Lanjut buka <code>virt-manager</code>-nya. Ok. Done! Alhamdulillah...
+install selesai. Konfirmasi <code>qemu</code> dengan <code>qemu-system-x86_64</code> apakah masih bermasalah. Ternyata ok. Lanjut buka <code>virt-manager</code>-nya. Ok. Done! Alhamdulillah...

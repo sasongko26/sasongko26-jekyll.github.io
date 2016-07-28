@@ -2,7 +2,7 @@
 layout: post
 title: "Mengetahui Versi Linux Terinstall"
 date: 2014-04-05 05:22:12
-tags: BlankOn
+tags: blankon
 ---
 Untuk mengetahui linux apa yang terinstall atau terpasang dapat menggunakan perintah
 ```

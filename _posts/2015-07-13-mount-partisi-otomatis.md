@@ -3,8 +3,8 @@ layout: post
 title: "Mount Partisi Otomatis"
 date: 2015-07-13
 tags: 
-- Slackware
-- BlankOn
+- slackware
+- blankOn
 
 ---
 Masih melanjutkan catatan yang kemarin tentang pemartisian. Setelah [membuat partisi]({% post_url 2015-07-11-membuat-partisi-dengan-cgdisk %}) kemudian [diformat]({% post_url 2015-07-12-memformat-partisi %}), langkah selanjutnya adalah memutuskan apakah partisi itu akan di-_mount_ secara otomatis saat _boot_ atau tidak.

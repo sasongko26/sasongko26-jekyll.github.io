@@ -2,7 +2,7 @@
 layout: post
 title: "[SOLVED] Slackware Current Susah Booting dan Shutdown"
 date: 2016-05-05
-tags: Slackware
+tags: [slackware, boot, kernel]
 ---
 Tiga bulan lalu saya _sambat_ **_Slackware current_** [hang]({% post_url 2016-02-08-slackware-current-hang %}) saat _booting_ dan _shutdown_. Sekarang  masalah tersebut teratasi.
 

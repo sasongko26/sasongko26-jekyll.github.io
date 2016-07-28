@@ -3,9 +3,9 @@ layout: post
 title: "Menggunakan Perintah Echo"
 date: 2014-03-24 10:01:12
 tags: 
-- Slackware
-- BlankOn
-- Terminal
+- slackware
+- blankon
+- terminal
 
 ---
 Echo merupakan perintah bahasa bash (bahasa yang digunakan terminal) untuk menampilkan  output ke monitor.

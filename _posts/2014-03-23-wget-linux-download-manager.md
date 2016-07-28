@@ -3,10 +3,10 @@ layout: post
 title: "Menggunakan WGet Linux Download Manager"
 date: 2014-03-23 10:28:12
 tags: 
-- Slackware
-- BlankOn
-- Internet Download Manager
-- Terminal
+- slackware
+- blankon
+- internet download manager
+- terminal
 
 ---
 Wget adalah download manager di linux. Secara default wget sudah terpasang dan bisa langsung digunakan. Wget sangat cocok digunakan untuk koneksi yang putus-nyambung-putus-nyambung-putus-nyambung atau keterbatasan kuota karena memiliki fitur resume. 

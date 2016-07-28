@@ -3,8 +3,8 @@ layout: post
 title: "Install wxPython"
 date: 2015-07-18
 tags: 
-- Slackware
-- Python
+- slackware
+- python
 
 ---
 wxPython adalah salah satu toolkit untuk membuat aplikasi grafis dengan python. Untuk menginstallnya mudah, kita install saja slackbuildnya. Pastikan tersambung internet.

@@ -2,7 +2,7 @@
 layout: post
 title: "Download ISO BlankOn dengan ZSync"
 date: 2014-04-15 07:22:12
-tags: BlankOn
+tags: blankon
 ---
 Sebagai anggota Quality Assurance (Tim Jaminan Kualitas) BlankOn, kami bertanggung jawab untuk menemukan kutu (bugs) sebanyak-banyaknya. Hampir setiap hari rilis iso baru dan 2 bulan sekali ada rilis kandidat baru, istilahnya sih jahitan.Tiap berkas iso baik itu i386 maupun amd64 berukuran sekitar 1GB. Kalau setiap hari iso tersebut harus diunduh, waaahhhh bakal tekor! :D
 

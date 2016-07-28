@@ -3,8 +3,8 @@ layout: post
 title: "Jalankan Sudo Tanpa Password"
 date: 2015-06-14
 tags: 
-- Slackware
-- BlankOn
+- slackware
+- blankOn
 
 ---
 Idealnya perintah sudo memang memerlukan password/kata sandi karena hakikat sudo itu pengguna "meminjam" hak _super user / root_. Tapi, password itu bisa saja kita hilangkan. Maksudnya, tidak perlu menuliskan password, contoh

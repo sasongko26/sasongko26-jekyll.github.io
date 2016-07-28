@@ -2,7 +2,7 @@
 layout: post
 title: "Hapus KDE Slackware"
 date: 2015-04-25
-tags: Slackware
+tags: [slackware, desktop environment, kde]
 ---
 Kalau kita install *Slackware* secara full, maka _desktop environment_ yang terinstall adalah *KDE*. Bagi beberapa pengguna mungkin KDE menimbulkan masalah karena pemakaian RAM dan CPU Usage yang notabene tinggi daripada DE yang lain. BIsakah KDE dihapus? Bisa
 ```

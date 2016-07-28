@@ -2,7 +2,7 @@
 layout: post
 title: "Install Unrar"
 date: 2015-06-25
-tags: Slackware
+tags: slackware
 ---
 Di antara file kompresi/arsip yang ada, kompresi yang tidak saya utamakan adalah rar. Simpel sih alasannya, karena secara default baik BlankOn maupun Slackware tidak meng-_embed_ ekstraktornya :D. Harus install dulu. Pastikan tersambung internet untuk mengunduh berkas.
 

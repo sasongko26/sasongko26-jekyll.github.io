@@ -2,7 +2,7 @@
 layout: post
 title: "Konek Internet Slackware"
 date: 2015-06-28
-tags: Slackware
+tags: slackware
 ---
 Di catatan yang lalu sudah pernah dibahas cara konek internet di Slackware dengan [wvdial]({% post_url 2015-04-01-install-wvdial-slackware %}). Sekarang masih tentang cara konek internet melalui modem di Slackware, hanya saja caranya berbeda. Kali ini menggunakan _pppsetup_ yang secara default sudah dimiliki Slackware.
 

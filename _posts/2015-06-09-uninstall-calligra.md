@@ -2,7 +2,7 @@
 layout: post
 title: "Uninstall Calligra Office Suite"
 date: 2015-06-09
-tags: Slackware
+tags: [slackware, office]
 ---
 _Calligra_ adalah _office suite_ atau aplikasi perkantoran yang dikembangkan KDE yang dulu bernama KOffice. Kalau memasang KDE secara _full_ kita akan mendapatinya. 
 

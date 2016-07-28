@@ -3,7 +3,9 @@ layout: post
 title : "Slackware Current Susah Booting dan Shutdown"
 date : 2016-02-08
 tags : 
-- Slackware
+- slackware
+- boot
+- kernel
 
 ---
 Beberapa hari yang lalu (tepatnya kapan saya lupa) upgrade kernel dari 3.10.17, kernel yang dipakai Slackware64 14.1 ke kernel Current yaitu 4.4.0 (tapi saat catatan ini ditulis kernel Current sudah naik jadi 4.4.1). Upgrade kernel ini menimbulkan masalah, yaitu sering _stuck_ saat _boot_ dan _shutdown_. 

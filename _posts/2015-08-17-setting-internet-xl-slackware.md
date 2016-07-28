@@ -2,7 +2,7 @@
 layout: post
 title: "Setting Internet XL Slackware"
 date: 2015-08-17
-tags: Slackware
+tags: slackware
 ---
 Di [catatan yang lalu]({% post_url 2015-06-28-konek-internet-menggunakan-pppsetup %}) telah kami sampaikan cara konek internet di Slackware dengan modem, ppp, dan internet provider atau operator Tri. Kali ini akan kami ganti dengan operator XL.
 

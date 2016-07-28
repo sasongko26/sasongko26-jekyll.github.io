@@ -3,8 +3,8 @@ layout: post
 title: "Mount ISO Image"
 date: 2015-12-26
 tags: 
-- Slackware
-- BlankOn
+- slackware
+- blankOn
 
 ---
 Mempunyai berkas citra ISO/ISO image ada manfaatnya. Pertama, sebagai cadangan kalau FD/DVD installernya tidak dapat digunakan. Kedua, untuk melakukan remaster. 

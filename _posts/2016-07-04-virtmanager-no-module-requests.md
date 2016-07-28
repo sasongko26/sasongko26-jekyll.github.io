@@ -3,10 +3,11 @@ layout: post
 date: 2016-07-04
 title: "Virt-Manager ImportError: No module named requests"
 tags:
-- Slackware
-- Virtual Manager
-- Qemu
-- Python
+- slackware
+- virtual manager
+- qemu
+- python
+- virtualiasi
 ---
 Setelah [_upgrade slackbuilds_]({% post_url 2016-07-03-upgrade-slackbuilds %}) kemarin ternyata <code>Virtual Machine Manager</code> tidak bisa dijalankan.
 

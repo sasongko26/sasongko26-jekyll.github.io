@@ -2,7 +2,7 @@
 layout: post
 title: "Mengenal Berkas .deb"
 date: 2014-06-23 23:02:12
-tags: BlankOn
+tags: blankon
 ---
 File atau berkas berekstensi deb adalah file paket installer debian dan turunannya. File deb adalah sejenis dengan file rpm pada keluarga redhat. 
 Tatanama file deb

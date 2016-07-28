@@ -3,9 +3,9 @@ layout: post
 title: "Operasi Direktori di Linux"
 date: 2015-06-01
 tags: 
-- Slackware
-- BlankOn
-- Terminal
+- slackware
+- blankOn
+- terminal
 
 ---
 Operasi direktori/folder adalah suatu hal yang mendasar di linux. Walaupun sekarang banyak desktop environment yang menyebabkan sedikit interaksi dengan terminal langsung karena tinggal klik saja dalam mode grafis (GUI), kami akan tetap sampaikan bagaimana melakukannya dalam mode teks (CLI).

@@ -3,8 +3,8 @@ layout: post
 title: "Download Seluruh Isi Website"
 date: 2015-06-09
 tags: 
-- Slackware
-- BlankOn
+- slackware
+- blankOn
 
 ---
 Melanjutkan [catatan yang lalu]({% post_url 2014-03-23-wget-linux-download-manager %}), kali ini adalah penggunaan wget untuk mengunduh/download website secara keseluruhan/rekursif.

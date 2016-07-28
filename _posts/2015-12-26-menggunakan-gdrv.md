@@ -3,8 +3,9 @@ layout: post
 title: "Cara Menggunakan gdrv"
 date: 2015-12-26
 tags: 
-- Slackware
-- BlankOn
+- slackware
+- blankOn
+- cloud
 
 ---
 gdrv adalah salah satu _command line interface tool_ berbasis python untuk **Google Drive**. Cara menginstallnya silahkan buka [catatan ini]({% post_url 2015-07-26-install-gdrv %}). Adapun cara penggunaannya adalah sebagai berikut:

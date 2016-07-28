@@ -2,7 +2,7 @@
 layout: post
 title: "Unduh ISO Slackware Current"
 date: 2015-08-01
-tags: Slackware
+tags: slackware
 ---
 Slackware adalah distro yang istimewa. Tak seperti distro lainnya yang menyediakan ISO versi terbaru atau _current_ yang masih dalam pengembangan, slackware tidak merilis _current ISO_ secara resmi. Walaupun demikian, ada yang menyediakannya bagi yang berminat, salah satunya bisa didapatkan di repo ftp://ftp.slackware.no.
 

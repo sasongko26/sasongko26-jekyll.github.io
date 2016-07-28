@@ -3,9 +3,9 @@ layout: post
 title: "Mengubah LiveDVD Menjadi ISO"
 date: 2015-05-23
 tags: 
-- Slackware
-- BlankOn
-- Forensik
+- slackware
+- blankOn
+- forensik
 
 ---
 Beberapa waktu lalu lihat DVD BlankOn 8 Rote nganggur di seonggok kumpulan CD/DVD. Enaknya diapain ya itu DVD? Kalau dibiarkan khawatirnya kotor malah ngga bisa digunakan lagi. Ya udah mending dibuat file ISO aja. Kalau dibuat file ISO insya Allah manfaatnya lebih banyak karena tersimpan di hardisk bisa lebih tahan lama daripada dalam bentuk DVD, dan suatu saat nanti kalau dibutuhkan tapi DVDnya ngga bisa dipakai tinggal dibakar aja ISOnya entah itu jadi DVD atau ke flashdisk. Jadi misalnya besok mau install BlankOn Rote ke netbook ga usah download lagi ISOnya cukup jadikan liveUSB aja.

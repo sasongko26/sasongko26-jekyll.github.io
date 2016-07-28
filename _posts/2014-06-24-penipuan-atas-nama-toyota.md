@@ -2,7 +2,7 @@
 layout: post
 title: "Kompetisi Tipuan Atas Nama Toyota"
 date: 2014-06-24 10:30
-tags: Forensik
+tags: forensik
 ---
 Kemarin penulis mendapat email, “Tantangan Buat Para Blogger SEO” yang isinya
 ![](/gambar/email-penipuan.png)

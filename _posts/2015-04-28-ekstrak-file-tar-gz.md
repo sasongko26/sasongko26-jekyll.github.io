@@ -3,9 +3,9 @@ layout: post
 title: "Ekstrak File .tar.gz"
 date: 2015-04-28
 tags: 
-- Slackware
-- BlankOn
-- Terminal
+- slackware
+- blankOn
+- terminal
 
 ---
 Kemarin di grup facebook Ubuntu Indonesia ada yang bertanya yang intinya

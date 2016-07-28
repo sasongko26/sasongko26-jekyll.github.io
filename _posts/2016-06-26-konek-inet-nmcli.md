@@ -3,9 +3,8 @@ layout: post
 date: 2016-06-26
 title: "Konek Internet dengan nmcli"
 tags:
-- Slackware
-
-- Network Manager
+- slackware
+- network manager
 
 ---
 Menyambung catatan tentang [hilangnya ikon atau NetworkManager]({% post_url 2015-12-26-ikon-networkmanager-hilang %}). Jika <code>nm-applet</code> tidak mempan untuk menampilkan _applet NetworkManager_, maka kita bisa gunakan <code>nmcli</code>.

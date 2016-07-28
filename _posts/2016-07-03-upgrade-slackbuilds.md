@@ -2,7 +2,7 @@
 layout: post
 date: 2016-07-03
 title: "Upgrade Slackbuilds Slackware 14.2"
-tags: Slackware
+tags: [slackware, slackbuild, sbopkg]
 ---
 Setelah melakukan [ _upgrade_ sistem ke _Slackware 14.2_]({% post_url 2016-07-03-upgrade-slackware-142 %}) ada baiknya _upgrade_ juga paket yang diinstal dari slackbuilds.org.
 

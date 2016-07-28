@@ -2,7 +2,7 @@
 layout: post
 title: Install WvDial di Slackware
 date: 2015-04-01
-tags: Slackware
+tags: slackware
 ---
 
 Agar bisa internetan di Slackware dengan modem tentunya kita harus install dulu paket atau aplikasinya. Aplikasi yang penulis sarankan adalah WvDial. WvDial ini berbasis text/CLI, bisa untuk GSM maupun CDMA. Slackware yang digunakan Slackware 14.1.

@@ -3,7 +3,7 @@ layout: post
 date: 2016-07-10
 title: "Set Default Brightness"
 tags:
-- Slackware
+- slackware
 - Xfce
 - display
 ---

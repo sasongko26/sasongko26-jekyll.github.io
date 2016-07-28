@@ -2,7 +2,7 @@
 layout: post
 date: 2016-05-12
 title: "Download Kitab Fathul Muin Maktabah Elkirtas"
-tags: Slackware
+tags: [slackware, elkirtas]
 ---
 Pertama, buka Maktabah Elkirtasnya dulu dan pastikan tersambung internet.
 

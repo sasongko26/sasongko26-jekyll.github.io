@@ -2,7 +2,7 @@
 layout: post
 title: "Install Xfburn Slackware"
 date: 2015-06-17
-tags: Slackware
+tags: slackware
 ---
 Xfburn adalah aplikasi _burning_ CD/DVD/BD dari XFCE. Versi terbaru saat ini 0.5.4, dengan dependensi:
 

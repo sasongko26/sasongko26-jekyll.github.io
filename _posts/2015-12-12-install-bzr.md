@@ -3,9 +3,9 @@ layout: post
 title: "Install Bazaar"
 date: 2015-12-12
 tags:
-- Slackware
-- BlankOn
-- Control Version system
+- slackware
+- blankOn
+- control version system
 
 ---
 Bazaar atau disingkat bzr adalah salah 1 jenis _control version system_ seperti _git_.

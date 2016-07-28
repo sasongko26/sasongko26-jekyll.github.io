@@ -3,8 +3,9 @@ layout: post
 title: "Install Maktabah Alqirthas di BlankOn"
 date: 2015-04-08
 tags:
-- BlankOn
-- Slackware
+- blankOn
+- slackware
+- elkirtas
 ---
 
 *Maktabah Alqirthas* atau **Maktabah Elkirtas** atau **Elkirtasse** adalah padanan Maktabah Syamilah-nya Windows yang lintas platform, tersedia untuk Windows dan Linux. Bisa untuk membaca kitab kuning digital, mengubah, bahkan sampai membuat kitab sendiri. Tampilannya menarik, user friendly (bagi yang bisa bahasa Arab atau terbiasa membaca kitab Arab gundul).

@@ -2,7 +2,7 @@
 layout: post
 title: "Kontes Desain Web Kominfo 2015"
 date: 2015-05-14
-tags: Seminar
+tags: seminar
 ---
 ![](http://web.kominfo.go.id/sites/default/files/users/12/Kontes%20Web%20Kominfo%202015.jpg)
 

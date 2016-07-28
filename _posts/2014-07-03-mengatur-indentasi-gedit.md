@@ -3,8 +3,7 @@ layout: post
 title: "Mengatur Indentasi gEdit"
 date: 2014-07-03 08:00:00
 tags: 
-- BlankOn
-- Text Editor
+- text editor
 
 ---
 Untuk keperluan coding, bagi pengguna gedit sebagai text editor-nya, pengaturan indentasi sangatlah penting.

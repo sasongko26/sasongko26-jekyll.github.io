@@ -3,9 +3,9 @@ layout: post
 title: "Memformat Flashdisk di LInux"
 date: 2015-05-30
 tags: 
-- Slackware
-- BlankOn
-- Terminal
+- slackware
+- blankOn
+- terminal
 
 ---
 Memformat flashdisk di linux adalah hal yang mudah. 

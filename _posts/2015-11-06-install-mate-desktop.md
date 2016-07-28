@@ -3,9 +3,9 @@ layout: post
 title: "Install Mate Desktop"
 date: 2015-11-06
 tags: 
-- Slackware
-- Desktop Environment
-- Mate
+- slackware
+- desktop environment
+- mate
 
 ---
 Walaupun _desktop environment_ resmi Slackware adalah KDE dan Xfce, kita tetap bisa menggunakan DE lain, _mate_ contohnya. _Mate_ punya tampilan menarik tapi tetap ringan. Installnya mudah kok, seperti biasa pakai slackbuilds. Pastikan tersambung internet untuk mengunduh berkasnya, oya kita butuh kira-kira 500 MB untuk download _mate_.

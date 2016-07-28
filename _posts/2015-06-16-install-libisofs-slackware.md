@@ -2,7 +2,7 @@
 layout: post
 title: "Install libisofs Slackware"
 date: 2015-06-16
-tags: Slackware
+tags: slackware
 ---
 Libisofs adalah pustaka untuk membuat filesystem ISO-9660. 
 
