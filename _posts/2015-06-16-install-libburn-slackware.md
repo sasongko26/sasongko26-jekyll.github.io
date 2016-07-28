@@ -2,7 +2,7 @@
 layout: post
 title: "Install libburn Slackware"
 date: 2015-06-16
-tags: Slackware
+tags: slackware
 ---
 Libburn adalah pustaka (_library_) untuk menulis ke CD, DVD, dan _blueray_.
 

@@ -4,7 +4,7 @@ date: 2016-07-10
 title: "Set Default Brightness"
 tags:
 - slackware
-- Xfce
+- xfce
 - display
 ---
 Kecerahan monitor / _brightness_ 100% membuat mata cepat lelah. Apalagi kalau secara _default_ begitu masuk X _brightness_-nya 100% dan mata terpajan dalam waktu lama. Hal ini tentunya tidak baik bagi kesehatan mata karena bisa menimbulkan _Computer Vision Syndrome_.
