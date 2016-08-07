@@ -7,7 +7,7 @@ tags:
 - virtual manager
 - qemu
 - python
-- virtualiasi
+- virtualisasi
 ---
 Setelah [_upgrade slackbuilds_]({% post_url 2016-07-03-upgrade-slackbuilds %}) kemarin ternyata <code>Virtual Machine Manager</code> tidak bisa dijalankan.
 
