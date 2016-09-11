@@ -2,7 +2,7 @@
 layout: post
 date: 2016-05-03
 title: "Install sbopkg"
-tags: [slackware, sbopkg, slackuild]
+tags: [slackware, sbopkg, slackbuild]
 ---
 Adakalanya pengguna **Slackware** membutuhkan paket/aplikasi di luar yang dirilis secara resmi oleh **Slackware** tapi tidak mau repot _install_ dari kode sumber (_source code_). [**SlackBuilds.org (SBo)**](http://slackbuilds.org) inilah yang mewujudkannya. Di SBo tersedia ribuan paket yang dapat dijalankan dengan baik di **Slackware**.
 
@@ -16,6 +16,7 @@ installpkg sbopkg-0.37.1-noarch-1_wsr.tgz
 ```
 
 Sbopkg sudah ter-_install_. UNtuk menjalankannya harus dengan _root privileges_
+
 ```
 sbopkg
 ```

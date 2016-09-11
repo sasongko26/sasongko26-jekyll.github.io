@@ -4,7 +4,7 @@ date: 2016-09-10
 title: "Nonaktifkan Penghapusan Unduhan Slackpkg"
 tags: [slackware, slackpkg]
 ---
-Secara _default_, <code>slackpkg</code> akan menghapus semua file yang di-_download_ / unduh untuk melakukan install/upgrade paket segera setelah paket tersebut terinstall/upgrade. Ini terlihat dari file konfigurasinya yang terletak di <code>/etc/slackpkg/slackpkg.conf</code> pada baris 77
+Secara _default_, <code>slackpkg</code> akan menghapus semua file yang di- _download_ / unduh untuk melakukan install/upgrade paket segera setelah paket tersebut terinstall/upgrade. Ini terlihat dari file konfigurasinya yang terletak di <code>/etc/slackpkg/slackpkg.conf</code> pada baris 77
 
 ```bash
 DELALL=on
