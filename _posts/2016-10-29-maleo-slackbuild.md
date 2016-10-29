@@ -1,3 +1,4 @@
+---
 layout: post
 date: 2016-10-29
 title: "Maleo Slackbuild"
@@ -12,4 +13,4 @@ Adapun dependensinya adalah :
 - <code>gnome-js-common</code> 
 - <code>seed</code>
 
-Keempatnya juga sudah saya buatkan _slackbuild_nya di [sini](https://github.com/sasongko26/slackbuilds). Untuk <code>vala</code> dan <code>libwebp</code> juga dapat menginstall dari <code>sbo</code>.
+Keempatnya juga sudah saya buatkan _slackbuild_-nya di [sini](https://github.com/sasongko26/slackbuilds). Untuk <code>vala</code> dan <code>libwebp</code> juga dapat menginstall dari <code>sbo</code>.
