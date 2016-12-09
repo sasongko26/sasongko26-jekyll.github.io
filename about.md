@@ -12,7 +12,7 @@ Namun, per 12 Juni 2016, **BlankOn** resmi saya hapus. Alasannya simpel: peningk
 
 Dan terhitung mulai tanggal 3 Juli 2016, menggunakan **Slackware64 14.2**.
 
-Pada minggu kedua November 2016, terpaksa berganti laptop menggunakan **Lenovo Ideapad 110** karena **Asus X453MA** mengalami kerusakan parah pada _motherboard/mainboard_ dan _keyboard_ akibat insiden runtuhnya plafon ternit kantor penulis. Adapun sistem operasi yang digunakan masih tetap setia dengan **Slackware64 current**.
+Pada minggu kedua November 2016, terpaksa berganti laptop menggunakan **Lenovo Ideapad 110** karena [**Asus X453MA**](http://www.bhinneka.com/Associate/asc_clicks.aspx?BARef=BATL150600398&BATrcID=linfocatatansas225204&Link=http%3a%2f%2fwww.bhinneka.com%2fproducts%2fsku00215793%2fasus_notebook_x453ma-bing-wx320b_-_black.aspx) mengalami kerusakan parah pada _motherboard/mainboard_ dan _keyboard_ akibat insiden runtuhnya plafon ternit kantor penulis. Adapun sistem operasi yang digunakan masih tetap setia dengan **Slackware**
 
 Bagi pengguna linux lainnya mungkin terdapat perbedaan, semoga bisa disesuaikan. Namun demikian, apa yang tertulis dalam catatan ini dapat berjalan dengan baik di perangkat kami, sehingga kami tidak bertanggung jawab atas kerusakan dan/atau kehilangan data maupun perangkat yang dimiliki oleh Pembaca, baik sebagian atau keseluruhan, yang terjadi setelah Pembaca mempraktekkan apa yang tertulis dalam catatan kami. Apabila ada perbedaan antara yang tertulis di catatan kami dengan apa yang ada pada linux Pembaca, silahkan disampaikan melalui kotak komentar yang ada di bawah setiap catatan/postingan. 
 
