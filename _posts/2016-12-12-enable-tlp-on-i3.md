@@ -2,7 +2,7 @@
 layout: post
 date: 2016-12-12
 title: "Enable TLP on i3wm"
-tags: [power manager, hardware, battery]
+tags: [power manager, hardware, battery, i3]
 ---
 Beberapa hari yang lalu install <code>i3 (i3wm)</code> menggunakan <code>sbopkg</code>. Biasanya, dengan _desktop environment_ lain seperti _Mate_, baterai bisa bertahan 4 - 6 jam. Namun, dengan _i3_ belum 3 jam sudah minta dicas, padahal penggunaannya seperti biasa tidak ada perbedaan signifikan.
 
