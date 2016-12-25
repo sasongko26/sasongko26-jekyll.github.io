@@ -27,3 +27,9 @@ while [ "$status" = "Discharging" ]
 	    sleep 30
     done
 ```
+
+Simpan file ini (contoh saja) <code>/usr/local/bin/notiflowbatt</code> dan berikan hak eksekusi (<code>chmod +x</code>). Jadikan _startup_ masukkan ke <code>i3config</code>
+
+```bash
+echo "exec_always /usr/local/bin/notiflowbatt" >> /etc/i3/config
+``` 

@@ -13,7 +13,7 @@ I3 memiliki berkas konfigurasi <code>/etc/i3/config</code>. Konfigurasi itu yang
 Nah, di sinilah saya menggunakan sesuatu yang sebenarnya tidak terlalu saya sukai, yaitu <code>sudo</code>. Mengapa saya tidak terlalu menyukai <code>sudo</code>?. Karena **Slackware** sudah diketahui _password_ rootnya yang dibuat saat install. Berbeda dengan _Ubuntu, Linux Mint_ dan anak cucunya yang memang butuh <code>sudo</code> karena _password_ rootnya secara _default_ sangat misterius antah berantah.
 
 ```bash
-echo "exec sudo /etc/rc.d/rc.tlp restart" >> /etc/i3/config
+echo "exec_always sudo /etc/rc.d/rc.tlp restart" >> /etc/i3/config
 echo "sasongko ALL=(ALL) NOPASSWD: /etc/rc.d/rc.tlp restart" >> /etc/sudoers
 # silahkan ganti 'sasongko' dengan user Anda
 ```
