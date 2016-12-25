@@ -6,7 +6,7 @@ tags: [slackware, battery, i3]
 ---
 Salah satu keistimewaan <code>i3</code> atau <code>i3wm</code> adalah belum adanya notifikasi/pemberitahuan saat baterai lemah perlu di-_charge_. Status baterai sudah ada di bar/panel yang ditampilkan oleh <code>i3status</code>.
 
-Berikut adalah _script_ sederhana untuk menampilkan notifikasi saat baterai sedang lemah dan tidak sedang di-_charge_. Jika baterai telah mencapai batas (di sini saya gunakan 5%) maka setiap 30 detik akan tampil notifikasi untuk segera dilakukan _charging_ <code>Wayahe dicas bro....!</code>. Dan ketika baterai sudah t.erisi full 100% tetapi masih dalam kondisi dicas akan tampil notifikasi tiap 30 detik bahwa baterai sudah full. 
+Berikut adalah _script_ sederhana untuk menampilkan notifikasi saat baterai sedang lemah dan tidak sedang di-_charge_. Jika baterai telah mencapai batas (di sini saya gunakan 5%) maka setiap 30 detik akan tampil notifikasi untuk segera dilakukan _charging_ <code>Wayahe dicas bro....!</code>. Dan ketika baterai sudah terisi full 100% tetapi masih dalam kondisi dicas akan tampil notifikasi tiap 30 detik bahwa baterai sudah full. 
 
 
 ```bash
