@@ -33,8 +33,8 @@ do
 done
 ```
 
-Simpan file ini (contoh saja) <code>/usr/local/bin/notiflowbatt</code> dan berikan hak eksekusi (<code>chmod +x</code>). Jadikan _startup_ masukkan ke <code>i3config</code>
+Simpan file ini (contoh saja) <code>/usr/local/bin/notiflowbatt</code> dan berikan hak eksekusi (<code>chmod +x</code>). Jadikan _startup_ masukkan ke <code>i3config</code> atau ke <code>~/.config/i3/config</code>
 
 ```bash
-echo "exec_always /usr/local/bin/notiflowbatt" >> /etc/i3/config
+echo "exec_always /usr/local/bin/notiflowbatt" >> ~/.config/i3/config
 ``` 
