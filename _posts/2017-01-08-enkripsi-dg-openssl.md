@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-07-08
+date: 2017-01-08
 title: "Enkripsi File dengan OpenSSL"
 tags: [slackware]
 ---
