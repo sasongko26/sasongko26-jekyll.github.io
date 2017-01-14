@@ -2,7 +2,7 @@
 layout: post
 date: 2017-01-08
 title: "Enkripsi File dengan OpenSSL"
-tags: [slackware]
+tags: [slackware, kriptografi, forensik]
 ---
 Salah satu yang membuat saya kepincut menggunakan GNU/Linux yaitu mudahnya mengamankan file. Salah satu caranya adalah dengan enkripsi. Di sini saya gunakan <code>openssl</code>.
 
