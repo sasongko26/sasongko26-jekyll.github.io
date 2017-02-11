@@ -6,7 +6,7 @@ tags: [blankon, slackware]
 ---
 Hari ini, sabtu, 11 Januari 2017, hujan turun lagi. Dan di kala hujan deras dan _nggrejih_ begini sejak pagi, _suwung_ pun melanda. Tiba-tiba terbersit untuk _install_ **BlankOn** yang telah lama saya tinggalkan.
 
-Teringat, DVD/USB _installer_-nya sudah tak ada. Iso-nya pun terhapus. _So, what's next_? Download iso BlankOn? Ide bagus, tapi sayang kuota tak mencukupi. Beli DVD/USB tak memungkinkan. Harus pesan dulu, sampai di tangan paling cepat besok senin, keburu sudah tidak _kepengin installl_ lagi. Hahahaha....
+Teringat, DVD/USB _installer_-nya sudah tak ada. Iso-nya pun terhapus. _So, what's next_? Download iso **BlankOn**? Ide bagus, tapi sayang kuota tak mencukupi. Beli DVD/USB tak memungkinkan. Harus pesan dulu, sampai di tangan paling cepat besok senin, keburu sudah tidak _kepengin installl_ lagi. Hahahaha....
 
 Ya pakai <code>debootstrap</code> sajalah. Lagian belum pernah pakai <code>debootstrap</code> sebelumnya. <code>debootstrap</code> tersedia di SBo sehingga semakin memudahkan. Tapi biar lebih greget sekaligus hemat kuota _install_-nya varian yang <code>minbase</code> saja, paket super minimalis.
 
@@ -56,7 +56,7 @@ cp /media/hd1/boot/vmlinuz-3.10-3-amd64 /boot/efi/EFI/Slackware/blankon
 cp /media/hd1/boot/initrd.img-3.10-3-amd64 /boot/efi/EFI/Slackware/
 ```
 
-dan jangan lupa edit <code>elilo.conf<code>-nya. tambahkan
+dan jangan lupa edit <code>elilo.conf</code>-nya. tambahkan
 
 ```bash
 image=blankon
