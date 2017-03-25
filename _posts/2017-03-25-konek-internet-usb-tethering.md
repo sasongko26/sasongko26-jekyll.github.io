@@ -4,10 +4,11 @@ date: 2017-03-25
 title: "Konek Internet USB Tethering"
 tags: slackware
 ---
+
 Salah satu keunggulan _GNU/Linux_ terutama **Slackware** adalah berlakunya **banyak jalan menuju Roma**. Contohnya untuk konek/menyambung ke internet, ada beberapa cara antara lain :
 
 1. <code>nmcli</code>, contohnya [di sini]({% post_url 2016-06-26-konek-inet-nmcli %}) dan [di sini]({% post_url 2016-12-07-nmcli-konek-wifi %}).
-2. <code>pppsetup</code>, caranya [seperti ini]({% post_url 2015-06-08-konek-internet-menggunakan-pppsetup %}) dan [ini]({% post_url 2015-08-17-setting-internet-xl-slackware %}) 
+2. <code>pppsetup</code>, caranya [seperti ini]({% post_url 2015-06-28-konek-internet-menggunakan-pppsetup %}) dan [ini]({% post_url 2015-08-17-setting-internet-xl-slackware %}) 
 3. [<code>wvdial</code>]({% post_url 2015-04-01-install-wvdial-slackware %})
 4. <code>wpa_supplicant</code>
 5. <code>wicd</code>
