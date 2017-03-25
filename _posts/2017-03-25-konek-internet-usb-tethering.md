@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 201-03-25
+date: 2017-03-25
 title: "Konek Internet USB Tethering"
 tags: slackware
 ---
