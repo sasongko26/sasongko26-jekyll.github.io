@@ -7,7 +7,7 @@ tags: [slackware, mouse, kernel, boot]
 Setelah _upgrade current_ ternyata ada masalah dengan mouse. Mouse mengalami _stuck_, ga ada respons saat _drag, drop_, bahkan ga bisa klik baik klik kiri maupun kanan.
 Dari grup di _telegram_ dapat informasi dari Pak Willy hal serupa juga dialami oleh beberapa _slacker_ yang lainnya. Alhamdulillah masalah ini bisa _solved_ dengan mudahnya di Slackware64 saya.
 
-Dengan akses root copas /lib/modprobe.d/psmouse ke /etc/modprobe.d. Kemudian _uncomment_ baris ke-10.
+Dengan akses root copas <code>/lib/modprobe.d/psmouse.conf</code> ke <code>/etc/modprobe.d</code>. Kemudian _uncomment_ baris terakhir.
 
 ```
 ##############################################################################
@@ -22,6 +22,3 @@ Dengan akses root copas /lib/modprobe.d/psmouse ke /etc/modprobe.d. Kemudian _un
 ```
 
 Setelah disimpan, silahkan _reboot_.
-
-
-
