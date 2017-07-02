@@ -10,4 +10,10 @@ Mungkin saja Moore tidak peduli dengan Idul Fitri, tapi bagi saya rilis kali ini
 
 Sehubungan dengan rilis tersebut, bagi mereka yang berminat, sudah saya buatkan <code>slackbuild</code> untuk <code>lumina</code>. Insya Allah besok sabtu 10 Juli 2017 <code>lumina</code> versi <code>1.3.0_p1</code> sudah tersedia di [SBo](https://slackbuilds.org).
 
+Oh iya, jika kompilasi menggunakan <code>gcc 7</code> sebagaimana yang digunakan di <code> Slackware current</code> silahkan kompilasi dengan opsi berikut :
+
+```bash
+QMAKE_CFLAGS_ISYSTEM= ./lumina.SlackBuild
+```
+
 Masukan, kritik, saran, perbaikan dipersilahkan.

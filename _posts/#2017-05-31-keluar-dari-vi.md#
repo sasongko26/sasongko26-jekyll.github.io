@@ -1,9 +1,0 @@
----
-layout: post
-date: 2017-05-31
-title: "Keluar dari VI"
-tags: [slackware]
----
-<code>VI</code> dan semua varian clone/derivatnya seperti <code>elvis</code> dan <code>vim</code> mempunyai 2 mode operasi, yaitu <code>mode command</code> dan <code>mode input</code>.
-
-UNtuk keluar dari <code>vi</code> mudah saja. Aktifkan <code>mode command</code> kemudian ketikkan <code>
