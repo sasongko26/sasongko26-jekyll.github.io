@@ -2,7 +2,7 @@
 layout: post
 date: 2017-07-02
 title: "Rilis Lumina 1.3.0"
-tags: [slackware, desktop environment, lumina]
+tags: [slackware, desktop environment, lumina, slackbuild]
 ---
 Di suasana Idul Fitri, 26 Juni 2017, Ken Moore selaku _project leader_ <code>Lumina</code> mengumumkan perihal rilisnya **Lumina Desktop 1.3.0**. Selang 4 hari kemudian dirilis _patch_ yang pertama untuk 1.3.0. Catatan rilis resmi silahkan dibaca [di sini](https://lumina-desktop.org/version-1-3-0-released/).
   
