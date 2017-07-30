@@ -10,7 +10,8 @@ Sebagai pengguna _SBo_ dan <code>sbopkg</code>, file yang dihasilkan proses _bui
 Semua yang ada di folder <code>/tmp</code> akan saya hapus kecuali file yang berekstensi <code>txt</code>. Saya memang kadang iseng nulis-nulis sesuatu kemudian saya simpan dengan ekstensi <code>txt</code> dan ditaruh di <code>/tmp</code>. File-file ini tidak mau saya hapus, buat dibaca jadi hiburan sendiri kelak bahwa dulu pernah iseng nulis seperti itu... Hahahaha.....
 
 ```bash
+cd /tmp
 shopt -s extglob
-rm -rfv !(*.txt)
+rm -rv !(*.txt)
 ```
 
