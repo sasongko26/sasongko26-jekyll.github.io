@@ -4,7 +4,7 @@ date: 2017-07-31
 title: "Multi Slackware dengan elilo"
 tags: [slackware,elilo,btrfs]
 ---
-Posting kali ini terinspirasi dari Pak Walesa yang menulis [di sini](http://walecha.web.id/node/57) dan [ini](http://walecha.web.id/node/58). Perbedaannya adalah pada _boot loader_ yang digunakan. Saya gunakan <code>elilo</code>. Selain itu, sudah ada _existing_ Slackware64 current dan Slackware64 14.2. Keduanya dengan filesystem ext4. Mau ditambahkan yang stable (Slackware64 14.2 dan Slackware 14.2) tetapi dengan _filesystem btrfs_. Jadi dual Slackware stable ini ditempatkan di dalam partisi yang sama dan Slackware64 current di partisi sendiri. Sebenarnya _tripleboot_ dengan Windows 10, tetapi Windows 10 sangat jarang dipakai. Jadi abaikan saja Windowsnya.
+Posting kali ini terinspirasi dari Pak Walesa yang menulis [di sini](http://walecha.web.id/node/57) dan [ini](http://walecha.web.id/node/58). Perbedaannya adalah pada _boot loader_ yang digunakan. Saya gunakan <code>elilo</code>. Selain itu, sudah ada _existing_ Slackware64 current dan Slackware64 14.2. Keduanya dengan filesystem ext4. Mau ditambahkan yang stable (Slackware64 14.2 dan Slackware 14.2) tetapi dengan _filesystem btrfs_. Jadi dual Slackware stable ini akan ditempatkan di dalam partisi yang sama. Sebenarnya _tripleboot_ dengan Windows 10, tetapi Windows 10 sangat jarang dipakai. Jadi abaikan saja Windowsnya.
 
 Berikut skema partisi harddisk (_free space_, partisi ext4 Slackware64 14.2 dan partisi Windows 10 diabaikan) :
 
@@ -23,7 +23,7 @@ Partisi untuk stable inipun baru saya bikin. Maka perlu diformat dulu
 mkfs.btrfs /dev/sda8
 ```
 
-Selanjutnya partisi ini dimount ke <code>/mnt/hd</code> dan buat subvolume baru (jumlah sesuaikan dengan kebutuhan). Saya buat 2 subvolume yaitu <code>stable64</code> dan <code>lain</code>. <code>stable64</code> untuk diinstall Slackware64 14.2 sedangkan subvolume <code>stable</code> untuk Slackware 14.2.
+Selanjutnya partisi ini dimount ke <code>/mnt/hd</code> dan buat subvolume baru (jumlah sesuaikan dengan kebutuhan). Saya buat 2 subvolume yaitu <code>stable64</code> dan <code>stable</code>. <code>stable64</code> untuk diinstall Slackware64 14.2 sedangkan subvolume <code>stable</code> untuk Slackware 14.2.
 
 ```bash
 mount -t btrfs /dev/sda8 /mnt/hd
