@@ -2,7 +2,7 @@
 layout: post
 date: 2017-01-14
 title: "Enkripsi File dengan gnupg"
-tags: [slackware, kriptografi, forensik]
+tags: [slackware, kriptografi, forensik, security]
 ---
 Selain dengan [openssl]({% post_url 2017-01-08-enkripsi-dg-openssl %}), enkripsi file juga dapat dilakukan dengan <code>gnupg</code> atau yang biasa disebut dengan <code>gpg</code>.
 

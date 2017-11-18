@@ -2,7 +2,7 @@
 layout: post
 date: 2017-01-08
 title: "Enkripsi File dengan OpenSSL"
-tags: [slackware, kriptografi, forensik]
+tags: [slackware, kriptografi, forensik, security]
 ---
 Salah satu yang membuat saya kepincut menggunakan GNU/Linux yaitu mudahnya mengamankan file. Salah satu caranya adalah dengan enkripsi. Di sini saya gunakan <code>openssl</code>. Cara lainnya yang dapat digunakan adalah dengan [gpg]({% post_url 2017-01-14-enkripsi-dg-gpg %}).
 

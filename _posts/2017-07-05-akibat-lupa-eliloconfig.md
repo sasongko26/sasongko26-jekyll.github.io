@@ -2,7 +2,7 @@
 layout: post
 date: 2017-07-05
 title: "Akibat Lupa eliloconfig"
-tags: [slackware, kernel]
+tags: [slackware, kernel, elilo]
 ---
 
 Kemarin melihat _ChangeLog_ ada beberapa _update_ yang sebagian di antaranya adalah _security fix_. Salah satu _update_ adalah kernel. Melakukan _upgrade_ semuanya baik-baik saja dan lanjut <code>shutdown</code>. Siang ini, <code>booting</code> pun masih _fine_ dan _no problem_. Begitu juga <code>login</code>. Baru terasa saat ingin masuk _desktop_ malah gagal.

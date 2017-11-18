@@ -2,7 +2,7 @@
 layout: post
 date: 2017-11-18
 title: "Kernel 4.14.0 Masuk -Current, Beralih ke Kernel Generic"
-tags: [slackware, kernel]
+tags: [slackware, kernel, elilo]
 ---
 
 Setelah 2 minggu, -Current kembali mendapatkan _update_ Jum'at kemarin tanggal 17 November 2017. Banyak _update_, ada yang _upgraded, rebuilt, added,_ dan _removed_. Salah satunya adalah masuknya kernel 4.14.0 yang merupakan kernel terbaru yang dirilis tanggal 12 November 2017 yang lalu.
