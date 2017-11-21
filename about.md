@@ -10,7 +10,7 @@ Linux yang digunakan sehari-hari adalah _BlankOn 9.1 Suroboyo i386_ dan _Slackwa
 
 Namun, per 12 Juni 2016, **BlankOn** resmi saya hapus. Alasannya simpel: peningkatan kebutuhan akan ruang penyimpanan dalam harddisk dan kebutuhan berkomputer telah dapat dipenuhi dengan baik menggunakan **Slackware**.
 
-Dan terhitung mulai tanggal 3 Juli 2016, menggunakan **Slackware64 14.2**.
+Dan terhitung mulai tanggal 3 Juli 2016, menggunakan **Slackware64 14.2**. Mulai November 2016 kembali menggunakan **Slackware64 current**.
 
 Pada minggu kedua November 2016, terpaksa berganti laptop menggunakan **Lenovo Ideapad 110** karena [**Asus X453MA**](http://www.bhinneka.com/Associate/asc_clicks.aspx?BARef=BATL150600398&BATrcID=linfocatatansas225204&Link=http%3a%2f%2fwww.bhinneka.com%2fproducts%2fsku00215793%2fasus_notebook_x453ma-bing-wx320b_-_black.aspx) mengalami kerusakan parah pada _motherboard/mainboard_ dan _keyboard_ akibat insiden runtuhnya plafon ternit kantor penulis. Adapun sistem operasi yang digunakan masih tetap setia dengan **Slackware**
 

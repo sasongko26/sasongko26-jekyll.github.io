@@ -12,7 +12,7 @@ Setelah _upgrade_ terutama untuk <code>elilo</code> jangan lupa menjalankan
 eliloconfig
 ```
 
-yang secara otomatis juga akan meng-_generate_ <code>elilo.conf</code> yang berisi pengaturan _boot_ dengan kernel huge.
+yang secara otomatis juga akan meng- _generate_ <code>elilo.conf</code> yang berisi pengaturan _boot_ dengan kernel huge.
 
 Namun, saya kurang suka dengan cara otomatis ini. Dan saya memilih melakukannya secara manual saja agar lebih fleksibel dalam konfigurasinya.
 
