@@ -4,7 +4,7 @@
 ####################################
 #
 title:       "Catatan Sasongko"
-description: "Catatan Penggunaan Open Source"
+description: "Catatan Penggunaan Slackware & Open Source Lainnya"
 url:        # the base hostname & protocol for your site
 
 #
@@ -32,9 +32,9 @@ kramdown:
 #
 owner:
   name: Sasongko Bawono
-  avatar: 
-  job: "Pelajar/Student"
-  bio: "Slackware user & open source enthusiast"
+  avatar: fotoku.jpg
+  job: Pelajar/Student
+  bio: Slackware user & open source enthusiast
   email: sasongko262@gmail.com
   telegram: sakawn10
   disqus-shortname: catatansasongko
