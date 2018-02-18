@@ -45,7 +45,7 @@ SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="c8:5b:76:66:51:6
 SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="ca:b0:da:b5:3d:75", ATTR{dev_id}=="0x0", ATTR{type}=="1", KERNEL=="wlan*", NAME="wlan0"
 
 # PCI device 0x168c:/sys/devices/pci0000:00/0000:00:1c.2/0000:02:00.0 (ath10k_pci)
-#SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="ca:b0:da:b5:3d:75", ATTR{dev_id}=="0x0", ATTR{type}=="1", KERNEL=="wlan*", NAME="wlan1"
+SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="ca:b0:da:b5:3d:75", ATTR{dev_id}=="0x0", ATTR{type}=="1", KERNEL=="wlan*", NAME="wlan1"
 
 # USB device 0x0cf3:0x9271 (usb)
 SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="84:16:f9:18:92:40", ATTR{dev_id}=="0x0", ATTR{type}=="1", KERNEL=="wlan*", NAME="wlan2"
