@@ -9,7 +9,7 @@ Salah satu yang membuat saya kepincut menggunakan GNU/Linux yaitu mudahnya menga
 Contoh, saya punya file yang perlu diamankan. Katakanlah filenya <code>indonesia-raya.odt</code>. Saya enkripsi menggunakan <code>openssl</code> dengan _cipher rc4_. File hasil enkripsi saya namai <code>rahasia.odt</code> yang saya taruh di fd dan fd saya <code>mount</code> di <code>/media/hd0</code>. Kemudian akan ditanya _password_ enkripsinya.
 
 ```bash
-$ openssl rc4 -in indonesia-raya.odt -out /media/hd0/rahasia.odt
+$ openssl enc -e -rc4 -in indonesia-raya.odt -out /media/hd0/rahasia.odt
 enter rc4 encryption password:
 Verifying - enter rc4 encryption password:
 ```
@@ -21,5 +21,5 @@ Verifying - enter rc4 encryption password:
 Untuk mendekrip, tambahkan opsi -d kemudian masukkan _password_-nya.
 
 ```bash
-$ openssl rc4 -d -in /media/hd0/rahasia.odt -out indonesia-raya.odt
+$ openssl enc -d -rc4 -in /media/hd0/rahasia.odt -out indonesia-raya.odt
 ```
