@@ -2,7 +2,7 @@
 layout: post
 date: 2018-06-12
 title: "Mengapa Enkripsi dengan OpenSSL?"
-tags: [slackware, security, forensic]
+tags: [slackware, security, forensik]
 ---
 
 Mengapa saya suka mengenkripsi file dengan <code>openssl</code>? Karena
