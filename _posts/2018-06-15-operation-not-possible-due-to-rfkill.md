@@ -71,12 +71,12 @@ Yo wislah, di-_unblock_ saja.
 
 ```bash
 rfkill unblock 2
-``
+```
 
 Cek lagi apakah masih terblokir.
 
 ```bash
-rfkill list 2
+$ rfkill list 2
 2: phy0: Wireless LAN
 	Soft blocked: no
 	Hard blocked: no
