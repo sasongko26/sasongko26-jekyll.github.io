@@ -48,7 +48,7 @@ $ ifconfig wlan0 up
 SIOCSIFFLAGS: Operation not possible due to RF-kill
 ```
 
-Ternyatsa sama saja. 
+Ternyata sama saja. 
 
 ```bash
 $ rfkill list
@@ -64,6 +64,7 @@ $ rfkill list
 3: hci0: Bluetooth
 	Soft blocked: yes
 	Hard blocked: no
+```
 
 Ternyata terblokir. Entah mengapa dan bagaimana prosesnya bisa terblokir.
 Yo wislah, di-_unblock_ saja.
@@ -115,6 +116,7 @@ network={
     ssid="EN 262 XY"
     psk="indcncniub"
 }
+```
 
 Coba konekkan
 
