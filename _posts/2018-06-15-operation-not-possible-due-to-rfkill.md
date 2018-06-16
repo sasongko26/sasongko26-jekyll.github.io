@@ -70,7 +70,7 @@ Ternyata terblokir. Entah mengapa dan bagaimana prosesnya bisa terblokir.
 Yo wislah, di-_unblock_ saja.
 
 ```bash
-rfkill unblock 2
+$ rfkill unblock 2
 ```
 
 Cek lagi apakah masih terblokir.
