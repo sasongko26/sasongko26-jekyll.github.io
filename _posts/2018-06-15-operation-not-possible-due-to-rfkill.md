@@ -106,7 +106,7 @@ $ iw wlan0 scan | egrep '(SSID|Authentication)'
 		 * Authentication suites: PSK
 ```
 
-Sebenarnya _output_-nya panjang, tapi berhubung hanya butuh SSID sama autentikasnya ya sudah di egrep aja. 
+Sebenarnya _output_-nya panjang, tapi berhubung hanya butuh SSID sama autentikasinya ya sudah di egrep aja. 
 
 Dan karena ada passwordnya, perlu diatur terlebih dulu
 
