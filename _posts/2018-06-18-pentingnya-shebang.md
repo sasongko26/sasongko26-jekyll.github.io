@@ -31,7 +31,7 @@ Shebang berfungsi untuk memberi tahu sistem (pada komputer), **interpreter** apa
 
 Ada 2 cara yang biasa dilakukan untuk menjalankan program :
 
-1. Menyertakan interpreternya di awal _command_
+- Menyertakan interpreternya di awal _command_
 
 Contoh :
 
@@ -39,7 +39,7 @@ Contoh :
 perl program.pl
 ```
 
-2. Tanpa menuliskan interpreternya
+- Tanpa menuliskan interpreternya
 
 Contoh :
 
@@ -65,7 +65,7 @@ print $a
 
 Bagi orang yang sudah berpengalaman (terutama programmer) bisa saja dengan cepat menentukan bahasa atau interpreter apa yang digunakan. Tapi bagaimana dengan yang "jam terbang" _coding_ nya masih baru? Atau yang awam seperti saya? Mungkin bingung dan akan coba-coba. Ya, coba-coba karena filenya tanpa ekstensi. Kalau ada ekstensinya kan bisa lebih mudah, langsung ketahuan.
 
-1. bash
+- bash
 
 ```bash
 $ bash tes
@@ -73,28 +73,28 @@ tes: line 1: =5: command not found
 tes: line 3: print: command not found
 ```
 
-2. csh
+- csh
 
 ```shell
 $ csh tes
 a: Undefined variable.
 ```
 
-3. ksh
+- ksh
 
 ```shell
 $ ksh tes
 tes: line 1: =5: not found
 ```
 
-4. zsh
+- zsh
 
 ```shell
 $ zsh tes
 tes:1: 5 not found
 ```
 
-5. perl
+- perl
 
 ```bash
 $ perl tes
@@ -102,7 +102,7 @@ syntax error at tes line 3, near "print"
 Execution of tes aborted due to compilation errors.
 ```
 
-6. python
+- python
 
 ```bash
 $ python tes
@@ -112,7 +112,7 @@ $ python tes
 SyntaxError: invalid syntax
 ```
 
-7. ruby
+- ruby
 
 ```bash
 $ ruby tes
