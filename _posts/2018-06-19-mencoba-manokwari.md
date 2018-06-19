@@ -34,9 +34,9 @@ Tentang dependensi, saya bagi menjadi 3 bagian.
    - libwebp5
    - icu4c56
 
-libwebp dan icu4c sebenarnya sudah tersedia untuk current tetapi dengan versi yang lebih tinggi dari yang disyaratkan. Sementara itu webkitgtk3 yang tersedia masih versi 2.4.11 yang berhubungan dengan <code>.so</code> lawas dari libwebp dan icu4c. Mau _build_ sendiri webkitgtk3 terbaru diperkirakan akan butuh waktu yang lama. Jadi libwebp dan icu4c akhirnya _build_ sendiri. libwebp pakai versi 0.4.3 tetapi nama paket menjadi libwebp agar tidak bentrok dengan libwebp versi _official_. Begitu juga icu4c pakai versi 56_1 nama paket jadi icu4c56.
+libwebp dan icu4c sebenarnya sudah tersedia untuk current tetapi dengan versi yang lebih tinggi dari yang disyaratkan. Sementara itu webkitgtk3 yang tersedia masih versi 2.4.11 yang berhubungan dengan <code>.so</code> lawas dari libwebp dan icu4c. Mau _build_ sendiri webkitgtk3 terbaru diperkirakan akan butuh waktu yang lama. Jadi libwebp dan icu4c akhirnya _build_ sendiri. libwebp pakai versi 0.4.3 tetapi nama paket menjadi libwebp5 agar tidak bentrok dengan libwebp versi _official_. Begitu juga icu4c pakai versi 56_1 nama paket jadi icu4c56.
 
-Setelah install timbul masalah. Kemuungkinan timbul karena tidak menginstall gnome-session, gnome-settings-daemon, gnome-desktop.
+Setelah install timbul masalah. Kemungkinan timbul karena tidak menginstall gnome-session, gnome-settings-daemon, gnome-desktop.
 
 1. Logout, shutdown, reboot melalui menu tidak berfungsi
 2. Tidak ada tombol minimize, maximize dan close pada window aplikasi
