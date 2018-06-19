@@ -4,7 +4,7 @@ title: "Konversi VDI ke VMDK"
 date: 2014-10-14 09:43:09
 tags: 
 - slackware
-- blankOn
+- blankon
 - virtualisasi
 
 ---

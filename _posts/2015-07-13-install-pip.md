@@ -4,7 +4,7 @@ title: "Install pip"
 date: 2015-07-13
 tags: 
 - slackware
-- blankOn
+- blankon
 - python
 
 ---

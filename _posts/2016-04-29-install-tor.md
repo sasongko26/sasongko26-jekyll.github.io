@@ -4,7 +4,7 @@ date: 2016-04-29
 title: "Install Tor Browser"
 tags: 
 - slackware
-- blankOn
+- blankon
 - tor
 - firefox
 

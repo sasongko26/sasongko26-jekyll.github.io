@@ -5,7 +5,7 @@ date: 2015-10-30
 tags: 
 - slackware
 - forensik
-- blankOn
+- blankon
 ---
 Melanjutkan [catatan kemarin]({% post_url 2015-10-29-install-testdisk %}), kali ini adalah cara menggunakan testdisk untuk mengembalikan/memulihkan/_recovery_ file yang terhapus. Misalkan dipunyai Flashdisk Toshiba berkapasitas 15 GB yang secara tak sengaja terhapus semua file yang di dalamnya.
 

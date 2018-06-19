@@ -4,7 +4,7 @@ title: "Operasi Direktori di Linux"
 date: 2015-06-01
 tags: 
 - slackware
-- blankOn
+- blankon
 - terminal
 
 ---

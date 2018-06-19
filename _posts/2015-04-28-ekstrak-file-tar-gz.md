@@ -4,7 +4,7 @@ title: "Ekstrak File .tar.gz"
 date: 2015-04-28
 tags: 
 - slackware
-- blankOn
+- blankon
 - terminal
 
 ---

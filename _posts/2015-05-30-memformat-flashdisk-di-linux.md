@@ -4,7 +4,7 @@ title: "Memformat Flashdisk di LInux"
 date: 2015-05-30
 tags: 
 - slackware
-- blankOn
+- blankon
 - terminal
 
 ---

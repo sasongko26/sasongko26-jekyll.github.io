@@ -4,7 +4,7 @@ title: "Ekstrak File tar.xz"
 date: 2014-12-30
 tags: 
 - slackware
-- blankOn
+- blankon
 - terminal
 
 ---

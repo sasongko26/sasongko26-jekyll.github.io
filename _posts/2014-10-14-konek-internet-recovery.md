@@ -3,7 +3,7 @@ layout: post
 title: "Konek Internet Recovery Mode"
 date: 2014-10-14 22:03:10
 tags: 
-- blankOn
+- blankon
 - terminal
 
 ---

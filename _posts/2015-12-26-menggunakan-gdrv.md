@@ -4,7 +4,7 @@ title: "Cara Menggunakan gdrv"
 date: 2015-12-26
 tags: 
 - slackware
-- blankOn
+- blankon
 - cloud
 
 ---

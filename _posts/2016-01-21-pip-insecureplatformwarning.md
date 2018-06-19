@@ -4,7 +4,7 @@ title: "pip InsecurePlatformWarning"
 date: 2016-01-21
 tags : 
 - slackware
-- blankOn
+- blankon
 - python
 
 ---

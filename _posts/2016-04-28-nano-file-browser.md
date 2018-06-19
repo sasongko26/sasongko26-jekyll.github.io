@@ -4,7 +4,7 @@ date: 2016-04-28
 title: "Kekuatan Tersembunyi Nano : Menampilkan File Tersembunyi"
 tags:
 - slackware
-- blankOn
+- blankon
 - text editor
 
 ---

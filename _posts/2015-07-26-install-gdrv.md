@@ -4,7 +4,7 @@ title: "Install gdrv"
 date: 2015-07-26
 tags: 
 - slackware
-- blankOn
+- blankon
 - cloud
 - python
 ---

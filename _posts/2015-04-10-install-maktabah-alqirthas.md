@@ -3,7 +3,7 @@ layout: post
 title: "Install Maktabah Alqirthas di BlankOn"
 date: 2015-04-08
 tags:
-- blankOn
+- blankon
 - slackware
 - elkirtas
 ---

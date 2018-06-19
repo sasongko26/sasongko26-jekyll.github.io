@@ -4,7 +4,7 @@ title: "Copy Paste di Terminal"
 date: 2015-09-30
 tags: 
 - slackware
-- blankOn
+- blankon
 - terminal
 
 ---

@@ -4,7 +4,7 @@ title: "Install Bazaar"
 date: 2015-12-12
 tags:
 - slackware
-- blankOn
+- blankon
 - control version system
 
 ---

@@ -4,7 +4,7 @@ title: "Install Testdisk"
 date: 2015-10-29
 tags:
 - slackware
-- blankOn
+- blankon
 - forensik
 
 ---

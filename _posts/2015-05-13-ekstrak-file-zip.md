@@ -4,7 +4,7 @@ title: "Ekstrak File zip"
 date: 2015-05-13
 tags: 
 - slackware
-- blankOn
+- blankon
 - terminal
 
 ---

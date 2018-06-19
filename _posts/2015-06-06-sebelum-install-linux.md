@@ -4,7 +4,7 @@ title: "Hal-hal yang Harus Diketahui Sebelum Menginstall Linux"
 date: 2015-06-06
 tags: 
 - slackware
-- blankOn
+- blankon
 
 ---
 Memang sudah seharusnya sebelum menginstall linux kita memiliki beberapa pengetahuan yang memadai. Imam Bukhari mengatakan "al ilmu qablal qawl wal amal" yang maksudnya sebelum melakukan sesuatu harus dilandasi dengan ilmu/pengetahuan tentang apa yang akan dilakukannya itu. Dan dalam ilmu fiqh / hukum Islam dikenal kaidah "al umuru bimaqashidiha" yang artinya setiap perkara itu tergantung maksud/niatnya. Kaidah ini diambil dari hadits "innamal a'malu binniyat" segala sesuatu tergantung niatnya.

@@ -4,7 +4,7 @@ title: "Mengubah LiveDVD Menjadi ISO"
 date: 2015-05-23
 tags: 
 - slackware
-- blankOn
+- blankon
 - forensik
 
 ---
