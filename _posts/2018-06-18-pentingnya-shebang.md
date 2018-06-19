@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-06-18
-title: "Pentingnya Shebang [1]"
+title: "Pentingnya Shebang"
 tags: [slackware, terminal, perl]
 ---
 

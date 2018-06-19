@@ -10,5 +10,5 @@ Dulu, saat masih menggunakan BlankOn, ternyata pada beberapa postingan di blog i
 Sekarang sudah diperbaiki. Kata "blankOn" yang ada di tiap file diganti "blankon". Penggantian ini secara massal saja biar lebih praktis. Filenya di direktori \_posts.
 
 ```bash
-sed -i 's/blankOn/blankOn/g' _posts/*.md
+sed -i 's/blankOn/blankon/g' _posts/*.md
 ```
