@@ -31,10 +31,10 @@ Tentang dependensi, saya bagi menjadi 3 bagian.
    - webkitgtk3
 
 3. _build_ sendiri
-   - libwebp5
-   - icu4c56
+   - [libwebplegacy043](https://github.com/sasongko26/libwebplegacy043-slackbuild)
+   - [icu4clegacy561](https://github.com/sasongko26/icu4clegacy561-slackbuild)
 
-libwebp dan icu4c sebenarnya sudah tersedia untuk current tetapi dengan versi yang lebih tinggi dari yang disyaratkan. Sementara itu webkitgtk3 yang tersedia masih versi 2.4.11 yang berhubungan dengan <code>.so</code> lawas dari libwebp dan icu4c. Mau _build_ sendiri webkitgtk3 terbaru diperkirakan akan butuh waktu yang lama. Jadi libwebp dan icu4c akhirnya _build_ sendiri. libwebp pakai versi 0.4.3 tetapi nama paket menjadi libwebp5 agar tidak bentrok dengan libwebp versi _official_. Begitu juga icu4c pakai versi 56_1 nama paket jadi icu4c56.
+libwebp dan icu4c sebenarnya sudah tersedia untuk current tetapi dengan versi yang lebih tinggi dari yang disyaratkan. Sementara itu webkitgtk3 yang tersedia masih versi 2.4.11 yang berhubungan dengan <code>.so</code> lawas dari libwebp dan icu4c. Mau _build_ sendiri webkitgtk3 terbaru diperkirakan akan butuh waktu yang lama. Jadi libwebp dan icu4c akhirnya _build_ sendiri. libwebp pakai versi 0.4.3 tetapi nama paket menjadi libwebplegacy043 agar tidak bentrok dengan libwebp versi _official_. Begitu juga icu4c pakai versi 56_1 nama paket jadi icu4clegacy561.
 
 Setelah install timbul masalah. Kemungkinan timbul karena tidak menginstall gnome-session, gnome-settings-daemon, gnome-desktop.
 
