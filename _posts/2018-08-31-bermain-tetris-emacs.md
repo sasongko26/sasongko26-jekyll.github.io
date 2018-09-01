@@ -9,6 +9,6 @@ _Emacs_ sebagai _text editor_ legendaris mempunyai banyak fitur. Salah satunya a
 
 **Tetris** bisa dimainkan dari **Emacs** pada _menu bar_ klik _Tools_ > _Games_ > _Tetris_
 
-[]!(/gambar/tetris-emacs.png)
+![](/gambar/tetris-emacs.png)
 
 Untuk memainkannya tekan tombol <code>P</code> untuk _pause_ dan melanjutkannya, panah kanan-kiri untuk menggeser, panah bawah untuk mempercepat dan panah atas untuk merotasi atau mengubah bentuk.
