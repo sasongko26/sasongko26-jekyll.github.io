@@ -12,7 +12,7 @@ MariaDB adalah _software_ untuk manajemen basis data atau database. Merupakan pe
 
 Secara _default_, apabila Slackware diisnntall _full system_ maka MariaDB akan terinstall. Jadi tidak usah repot-repot untuk insytallnya.
 
-# Memulai MariDB
+# Memulai MariaDB
 
 Sebelum memulai, ada beberapa konfigurasi yang perlu dilakukan agar semua berjalan dengan baik. _prompt_ <code>R/</code> menunjukkan dilakukan dengan _priviledge_ <code>root</code>
 
