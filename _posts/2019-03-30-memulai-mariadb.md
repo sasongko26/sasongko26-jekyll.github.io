@@ -2,7 +2,7 @@
 layout: post
 title: "Memulai MariaDB"
 date: 2019-03-30
-tags:[slackware, database]
+tags: [slackware, database]
 ---
 # Apa itu MariaDB
 
