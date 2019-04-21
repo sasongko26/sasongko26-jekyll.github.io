@@ -12,4 +12,4 @@ Ini cara sederhana yang saya gunakan
 grep -w REQUIRES /var/lib/sbopkg/SBo/*/*/*/*.info | grep -w nama_paket
 ```
 
-Dengan cara tersebut bisa diketahui suatu paket/_package_ itu menjadi dependensi dari paket apa. Tapi, salah 1 dari _output_ tersebut tidak lain adalah paket itu sendiri.
+Dengan cara tersebut bisa diketahui suatu paket/_package_ itu menjadi dependensi dari paket apa. Tapi, salah 1 dari _output_ tersebut tidak lain adalah paket itu sendiri. Dan, _package_ yang ditampilkan adalah semua yang ada di SBo. Kita masih perlu memeriksa apakah _packages_ tersebut terinstall atau tidak.
