@@ -2,7 +2,7 @@
 layout: post
 date: 2019-12-01
 tilte: "Rename Banyak File Sekaligus"
-tags: [Slackware, Manajemen File]
+tags: [slackware, manajemen file]
 ---
 
 Tak terasa ternyata sudah lebih dari 3 bulan tidak _posting_. Mengapa? Sibuk? Kesibukan sebenarnya seperti biasa. Tidak ada peningkatan kesibukan secara signifikan. Lalu mengapa? Alasannya simpel. Karena semua kegiatan berkomputer baik-baik saja. Tidak ada masalah. Biasanya saya menulis di sini ketika saya menghadapi masalah terkait penggunaan komputer. Nah, kali ini masalahnya adalah saya menemukan banyak file yang namanya tidak sesuai dengan standar saya. 
