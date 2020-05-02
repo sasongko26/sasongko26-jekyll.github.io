@@ -2,7 +2,7 @@
 layout: post
 date: 2020-03-21
 title: Tendensi Sentral dengan R
-tags: [slackware, r]
+tags: [slackware, r, statistik]
 ---
 Data yang digunakan :
 ```R

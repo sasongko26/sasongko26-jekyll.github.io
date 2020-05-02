@@ -2,7 +2,7 @@
 layout: post
 date: 2020-03-14
 title: Input Data R
-tags: [slackware, r]
+tags: [slackware, r, statistik]
 ---
 Input data dalam R sangat mudah dan ada beragam cara, yaitu:
 

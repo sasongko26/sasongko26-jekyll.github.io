@@ -21,3 +21,24 @@ Berikut adalah _package_ atau _library_ **R** yang secara _default_ terinstall d
 13. **graphics**. The R Graphics Package
 14. **grid**. The Grid Graphics Package
 15. **lattice**. Trellis Graphics for R
+16. **methods**. Formal Methods and Classes
+17. **mgcv**. Mixed GAM Computation Vehicle with Automatic Smoothness Estimation
+18. **nlme**. Linear and Nonlinear Mixed Effects Models
+19. **nnet**. Feed-Forward Neural Networks and Multinomial Log-Linear Models
+20. **parallel**. Support for Parallel computation in R
+21. **rpart**. Recursive Partitioning and Regression Trees
+22. **spatial**. Functions for Kriging and Point Pattern Analysis
+23. **splines**. Regression Spline Functions and Classes
+24. **stats**. The R Stats Package
+25. **stats4**. Statistical Functions using S4 Classes
+26. **survival**. Survival Analysis
+27. **tcltk**. Tcl/Tk Interface
+28. **tools**. Tools for Package Development
+29. **utils**. The R Utils Package
+
+**Packages** tersebut bisa dilihat dengan menjalankan pada <code>Rconsole</code>
+```R
+> library()
+```
+
+Atau melihat isi folder /usr/lib64/R/library
