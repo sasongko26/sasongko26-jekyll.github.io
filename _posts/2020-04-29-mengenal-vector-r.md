@@ -38,13 +38,13 @@ Angka dalam kurung siku di sebelah kiri pada tiap baris yang ditampilkan menunju
 ## length()
 Fungsi <code>length()</code> digunakan untuk mengetahui panjang vector (sebenarnya tidak hanya berlaku untuk vector, tapi juga objek lain seperti factor). Ketika data sudah dipegang, apa yang kemudian dilakukan? Ya, mengecek data. Salah satu pengecekannya adalah apakah data sudah lengkap? Kalau kuesioner yang harus diisi ada 10 item, apakah semua item sudah diisi? Ini contoh penggunaan <code>length()</code> dalam praktik.
 
-Contoh, akan dicek berapa banyaknya data tinggi_badan 
+Contoh, akan dicek berapa banyaknya data tinggi\_badan 
 ```R
 > length(tinggi_badan)
 5
 ```
 ## Indeks
-Indeks menunjukkan letak data tersebut. Penulisannya <code>namavector[nomer_indeks]</code>. Angka dalam kurung siku adalah nomoor indeksnya. Contoh
+Indeks menunjukkan letak data tersebut. Penulisannya <code>namavector[nomer\_indeks]</code>. Angka dalam kurung siku adalah nomor indeksnya. Contoh
 ```R
 > nama <- c("Ali", "Budi", "Cici", "Deni", "Eka")
 > nama[1]
@@ -79,7 +79,7 @@ Misalkan akan dihapus nama Budi yang merupakan elemen ke-2
 > nama <- nama[-2]
 ```
 ## Operasi matematika
-Misalkan, untuk keperluan menghitung _body mass index_ atau indeks massa tubuh (IMT). Tinggi badan yang digunakan adalah dalam satuan meter. Sementara data yang masuk dalam centimeter. Akan dibuat variabel baru (berupa vector tentunya) IMT yang diperoleh dari menghitung berat_badan dibagi kuadrat tinggi_badan dalam meter.
+Misalkan, untuk keperluan menghitung _body mass index_ atau indeks massa tubuh (IMT). Tinggi badan yang digunakan adalah dalam satuan meter. Sementara data yang masuk dalam centimeter. Akan dibuat variabel baru (berupa vector tentunya) IMT yang diperoleh dari menghitung berat\_badan dibagi kuadrat tinggi\_badan dalam meter.
 ```R
 IMT <- berat_badan/(tinggi_badan/100)^2
 ```
