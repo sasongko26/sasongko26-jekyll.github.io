@@ -8,3 +8,5 @@ _drafts
 *.yml~
 .*.un~
 */.*~
+.local
+.jekyll-cache

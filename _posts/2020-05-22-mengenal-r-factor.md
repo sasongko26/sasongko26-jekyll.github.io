@@ -18,7 +18,8 @@ Untuk obesitas, masih bisa diklasifikasikan menjadi 3
 
 ```R
 > bmi <- c(20, 21.5, 18, 24, 26, 28, 25.5, 20.5)
-> kategori <- cut(bmi, breaks=c(0, 18.5, 25, 30, 35, 40, Inf), labels=c('Underweight', 'Normal', 'Overweight', 'Obese Class 1', 'Obese Class 2', 'Extreme Obesity'))> View(kategori)
+> kategori <- cut(bmi, breaks=c(0, 18.5, 25, 30, 35, 40, Inf), labels=c('Underweight', 'Normal', 'Overweight', 'Obese Class 1', 'Obese Class 2', 'Extreme Obesity')
+> View(kategori)
 1 Normal
 2 Normal
 3 Underweight
