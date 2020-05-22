@@ -10,11 +10,11 @@ Contoh, bmi adalah data _body mass index_ (BMI) atau indeks massa tubuh (IMT). K
 - < 18,5 : underweight
 - 18,5 - 24,99 : normal
 - 25 - 29,99 : overweight
-- > 30 : obese/obesitas
+- \> 30 : obese/obesitas
 Untuk obesitas, masih bisa diklasifikasikan menjadi 3
 - 30 - 34,99 : obese class 1
 - 35 - 39,99 : obese class 2
-- > 40 : extreme obesity
+- \> 40 : extreme obesity
 
 ```R
 > bmi <- c(20, 21.5, 18, 24, 26, 28, 25.5, 20.5)
