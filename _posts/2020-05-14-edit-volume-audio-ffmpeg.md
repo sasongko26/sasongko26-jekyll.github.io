@@ -16,3 +16,9 @@ Atau, dengan menuliskan volume suaranya secara langsung. Default aslinya 256. Mi
 ```bash
 ffmpeg -i video.mp4 -vol 300 anyar.mkv
 ```
+
+Atau, bila dari mp4 kemudian tetap menjadi mp4 dan dengan kualitas video yang tidak jauh berbeda, dan untuk suara/audionya menggunakan codec opus (karena default mp4 codec audionya aac yang merupakan paten) nilai crf bisa diubah antara 0 - 51. 0 kualitas terbaik dengan konsekwensi ukuran lebih besar. Biasanya crf 17 bisa dikatakan aman, tidak terlalu tampak penurunan kualitasnya.
+```bash
+ffmpeg -i video.mp4 -af "volume=25.1dB" -acodec opus -strict -2 -vcodec copy -crf 17 video-suaranya-keras.mp4
+```
+
