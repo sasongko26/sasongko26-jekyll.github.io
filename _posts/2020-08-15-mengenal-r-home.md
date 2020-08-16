@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mengenal R\_HOME
+title: Mengenal R_HOME
 date: 2020-08-15
 tags: [slackware, r]
 ---
