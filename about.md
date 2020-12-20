@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Profil
-permalink: /profil/
+
 ---
 
 Blog ini merupakan sebagian dokumentasi atau catatan pribadi dari Sasongko Bawono, seorang pengguna GNU/Linux (untuk selanjutnya hanya saya sebut linux) amatir, berisi tentang penggunaan linux dan _free and open source software (FOSS)_ lainnya. Penulis bukanlah orang yang mahir sehingga masih memerlukan masukan, kritik, dan saran agar menjadi lebih baik lagi. Silahkan sampaikan melalui surel/email. 

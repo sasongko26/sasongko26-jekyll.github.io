@@ -1,0 +1,7 @@
+baseURL = "http://sasongko.web.id/"
+languageCode = "id-ID"
+title = "Catatan Sasongko"
+disqusShortname = "catatansasongko"
+theme = "hyde"
+[params]
+	description = "Catatan Penggunaan Slackware & Open Source Software Lainnya"
